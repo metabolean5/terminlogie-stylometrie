@@ -60,9 +60,6 @@ freq_dic = compute_freqdic(articles_chrono,"2007")
 freq_dic = compute_freqdic(articles_chrono,"2008")
 
 returnTopFreq(freq_dic)
-print("('suce moi les boules', 12508493)]")
-
-
 '''
 #print("frequency computed")
 

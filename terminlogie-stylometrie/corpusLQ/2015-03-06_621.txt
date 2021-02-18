@@ -1,0 +1,800 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lacan Quotidien
+
+
+Vendredi 6 mars 2015 – 20 h 43   [GMT + 1]
+
+NUMERO 485
+Je n’aurais manqué un Séminaire pour rien au monde— PHILIPPE SOLLERS
+
+Nous gagnerons parce que nous n’avons pas d’autre choix — AGNÈS AFLALO
+
+www.lacanquotidien.fr
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Bourdin, l’Homme pulsionnel
+
+par Jacques-Alain Miller
+
+« in a nutshell »
+Shakesp.
+
+Dans  l’affaire  Dumas,  impossible  de  faire  l’impasse  sur  Jean-Jacques  Bourdin.  Le 
+personnage est un paramètre essentiel de l’émission qui ft scandale au matin du lundi 
+16 février (8h36-8h56). Aussi vais-je prendre le temps de le situer.
+
+Son  émission  ayant  déclenché  une  « tempête  médiatique »,  M.  Bourdin  fut 
+amené à s’expliquer l’après-midi même sur le site Puremedias, puis, le lendemain, sur 
+le  plateau  de  La  Nouvelle  Edition  (Canal  +).  Cependant,  sa  première  expression 
+publique, ce fut le tweet qu’il diffusa de sa propre initiative le lundi en fn de matinée.  
+En voici le texte intégral : « J'aime mon métier: faire dire à mes interlocuteurs ce qu'ils 
+pensent vraiment.. Recherche de la vérité contre toutes les langues de bois.. »
+
+
+
+Le message compte exactement 140 signes, soit le maximum permis par Twitter. 
+C’est au prix de ne mettre que deux points de suspension et non trois, à la fn de la  
+seconde et de la troisième phrases.  Ce n’est pas un hapax : Léon-Paul Fargue avait 
+demandé à Gallimard ces  deux points  pour  la  première  édition de ses  Poëmes ;  de 
+même, Françoise Sagan chez Juillard pour son titre Aimez-vous Brahms.. (cf. le Traité de la  
+ponctuation française, de Jacques Drillon, 1991).
+
+1. - Le tweet, objet littéraire
+Le réseau social Twitter joue un rôle croissant dans les échanges interpersonnels, la  
+politique, le journalisme, la communication de crise, etc. Les études universitaires sur 
+Twitter se multiplient dans le cadre des digital humanities. Elles sont orientées Big Data et 
+aspirent  à  fonder  « a science  of  Twitter »  (qui  pourrait  n’être  qu’illusoire,  selon Axel 
+Bruns et Jean Burgess). On trouvera une bonne mise au point récente dans le volume 
+collectif  Science and the Internet, publié par la Heinrich Heine Universität de Düsseldorf, 
+2012.
+
+Sans  méconnaître  l’intérêt  de  ces  recherches  en  cours,  bien  qu’elles  soient 
+encore loin de fournir  des concepts opératoires,  j’entends limiter  le  corpus au seul  
+tweet Bourdin du 16 février 2015 à 12h19, et saisir celui-ci dans une analyse de type 
+littéraire. 
+
+Du  point  de  vue  littéraire,  un  tweet  est  une  forme  brève  de  la  prose.  Le 
+paradigme de l’analyse des formes brèves est à mes yeux l’admirable « Préface à La 
+Rochefoucauld » de Roland Barthes (publiée en 1961, reprise dans les  Nouveaux essais  
+critiques, 1972). Œuvre de précurseur, à peine mentionnée pourtant dans le volume qui 
+ft date sur la question pour l’Université française, Les Formes brèves de la prose et le discours  
+discontinu (XVIe-XVIIe siècles), 1984.
+
+Dans l’avant-propos de l’ouvrage, le regretté Pr Lafond notait à propos de ces 
+formes brèves que « la rhétorique classique, d’Aristote à Bernard Lamy, ne les a guère 
+prises en compte ». Il en va autrement de notre époque, disait-il, où « “la parole en 
+archipel” et le discontinu ont pris la place que l’on sait ».
+
+Il y a deux ans, le Pr Montandon expliquait par le « rythme accéléré de la vie 
+contemporaine exigeant des lectures rapides » l’intérêt actuel pour les formes brèves. Il 
+évoquait aussi « la séduction irrésistible qu’exerce le petit, le minuscule, le plaisir du 
+microcosme, celui de trouver un monde dans une coquille de noix (déjà chez Hamlet) » 
+(« Formes brèves et microrécits » in Les Cahiers de Framespa, 2013).
+
+
+
+Simultanément, la publication par un académicien Goncourt d’un recueil de ses 
+tweets élevait en France ledit tweet à la dignité d’un objet littéraire de plein exercice 
+(Bernard Pivot, Les tweets sont des chats, 2013).
+
+Enfn, dernière feur de notre bouquet, aujourd’hui dans Le Figaro magazine cette 
+notation de Fréderic Beigbeder : « Le temps s’accélère ; les romans rétrécissent. Il y a 
+une cohérence. »
+
+2. - Approches textuelles
+Généralités. Un tweet n’est pas identifé par des propriétés formelles intrinsèques comme 
+l’est un alexandrin ou peut l’être une maxime classique. Un tweet est un tweet par : 
+
+a) sa qualité d’écrit (il n’y a pas de tweet oral, le tweet est une réalité graphique) ; 
+b) la quantité de signes utilisés, qui doit être inférieure ou égale à 140 ; 
+c) son vecteur communicationnel, qui doit être, à l’exclusion de tout autre, le 
+
+réseau Twitter. 
+Le matériel signifant n’est requis par aucune autre contrainte spécifque. Les 
+
+contraintes combinatoires générales de la langue s’imposent au message pour autant 
+que l’on souhaite qu’il soit intelligible pour ses destinataires. On admet que la notion 
+de « message intelligible » est du registre de l’à-peu-près, étant entendu que ce registre 
+est mathématisable, voir les mémorables Leçons d’à-peu-près de G.T. Guilbaud, 1985. 
+
+Caractéristiques. Une typologie des tweets peut être tentée. Je m’en dispenserai ici, 
+dès lors que mon corpus ne comporte qu’un item unique. Je le caractériserai comme 
+étant un tweet :
+
+α) original (non copié, non retweeté) ; 
+β)  émis  par  une  personne  physique  dotée  d’un  nom  propre,  personnalité 
+
+médiatique notoire qui plus est ; 
+γ) relevant d’une communication de crise (l’auteur étant impliqué, au moment 
+
+de l’émission du message, dans une « tempête médiatique » où était mis en cause son 
+rôle dans son entretien du matin avec Roland Dumas). 
+
+Analyse grammaticale.  Le tweet Bourdin comporte trois  phrases en tout et pour 
+tout : 
+
+A) J’aime mon métier :
+B) faire dire à mes interlocuteurs ce qu’ils pensent vraiment..
+C) Recherche de la vérité contre toutes les langues de bois..
+La première phrase est la seule qui soit une phrase simple verbale ; elle réunit 
+
+un groupe-sujet, un verbe conjugué et un complément d’objet direct. La seconde est  
+
+
+
+une phrase dite à construction particulière, en l’occasion une phrase à l’infnitif, donc 
+dépourvue de groupe-sujet. Quant à la troisième, c’est une phrase dite nominale.
+
+Isotopie du message. Du point de vue syntaxique, la phrase est l’unité linguistique 
+maximale. Cependant, un texte n’est pas réductible à une suite de phrases. On a le  
+sentiment  de son unité.  Il  y  a  cohésion textuelle.  Pour  en rendre compte,  « il  faut 
+élaborer des concepts  (…) qui  ne soient  pas directement dépendants  des structures 
+syntaxiques, et restent donc indifférents à la prétendue limite de la phrase » (François 
+Rastier,  Sémantique interprétative,  1987). À cette fn, A. J. Greimas a proposé le concept 
+d’isotopie (Sémantique structurale, 1966), censé traduire la notion « très vague, et pourtant 
+nécessaire, de totalité de signification postulée à un message. »
+
+Qu’est-ce que l’isotopie ? Greimas, 1966 : « ensemble redondant de catégories 
+sémantiques  qui  rend  possible  la  lecture  uniforme  du  récit ».  Pottier,  1974 : 
+« continuité sémantique à travers une séquence (refétant une cohérence) ». Umberto 
+Eco,  1979 :  « divers  phénomènes  sémiotiques  génériquement  défnissables  comme 
+cohérence d’un parcours de lecture ». Etc. Je n’entrerai pas dans ce débat. Il me suffra 
+de préciser l’isotopie propre au tweet Bourdin.
+
+Émis dans un contexte polémique, ce tweet s’analyse comme une réplique de 
+M. Bourdin  à  des  antagonistes  l’accusant  de  n’avoir  pas  respecté  la  déontologie 
+professionnelle du journaliste. Cependant, les arguments hostiles ne sont ni explicités ni 
+réfutés  dans  le  texte  du  tweet :  ils  restent  supposés.  L’argumentation  est  donc 
+unilatérale et non pas contradictoire. Il s’ensuit que l’isotopie du message est celle d’un 
+discours rhétorique relevant du genre épidictique, celui « où l’on s’efforce d’exalter le 
+mérite de la personne qui est louée » (Cicéron, d’après Aristote). 
+
+Pour  reprendre  l’expression  dont  Roland  Dumas  qualife  le  texte  d’un 
+journaliste  notoire  dans  son  livre  tout  récent,  Politiquement  incorrect,  p. 318,  le  tweet 
+Bourdin constitue « un panégyrique de soi-même ».
+
+3. - Logique de l’exorde
+Du point de vue rhétorique, on constate que les fonctions discursives se distribuent sur 
+
+l’articulation  phrastique  ternaire  décelée  par  la  grammaire.  On  reconnaît  dans  la 
+
+
+
+première  phrase  l’exorde.  La  péroraison tient  dans  la  phrase  nominale  ultime.  La 
+
+phrase médiane, à l’infnitif, assume sous la forme d’une défnition la fonction de ce 
+
+qui, dans la disposition classique, s’appelle narration (exposé des faits) et argumentation 
+
+ou confrmation (exposé des arguments). 
+
+L’exorde comme la péroraison servent, selon Cicéron, à « émouvoir les âmes ». 
+
+L’exorde a pour but de gagner la sympathie et la confance de l’auditoire. Le locuteur 
+
+s’emploie à présenter de lui-même une image séduisante, un éthos (caractère) de charme 
+
+et d’honnêteté, induisant à son proft un biais cognitif  positif. Il s’agit de susciter un 
+
+pathos  de  bienveillance,  l’eunoia d’Aristote,  que  Cicéron  traduit  par  benevolentia. 
+
+Cependant, le tweet étant par défnition un message scriptural, la captatio benevolentiae ne 
+
+dispose pas ici des moyens de l’orateur : maintien, attitude, gestes, débit, intonation, 
+
+infexions vocales, etc. De plus, Twitter rend la brièveté impérative. Tout tient donc ici 
+
+dans ces quatre mots : « J’aime mon métier. » 
+
+Le  caractère  trivial  de  cette  assertion  ex  abrupto répond  parfaitement  à  la 
+
+recommandation  de  Boileau  selon  laquelle  « un  exorde  doit  être  simple  et  sans 
+
+affectation ». 
+
+Sur le plan véridictionnel, ce dit initial se présente comme le témoignage du 
+
+scripteur sur son expérience intérieure, sur une disposition affective qui lui est propre, 
+
+donc sur une donnée éminemment subjective. Si c’était un fait qui était allégué, une 
+
+réalité objective, la donnée serait ouverte à contestation. Dès lors qu’il s’agit d’un état 
+
+d’esprit, d’un affect du sujet, le lecteur est conduit à prendre acte du témoignage qui lui 
+
+est apporté.
+
+L’assertion « J’aime mon métier » est d’ordre pragmatique, et non pas logique. 
+Elle exprime l’engagement illocutoire de Bourdin sur la vérité de son énoncé, sans que 
+cette  vérité  ne  soit  pour  autant  validée  (voir  Denis  Vernant,  « Pragmatique  de  la 
+véridicité », 2010, in Les prépublications de la MSH Lorraine, sur le net).
+
+Cependant, l’assertion de Bourdin est comme telle infalsifable, sauf  à utiliser 
+
+des adjuvants (détecteur de mensonges, sérum de vérité, etc.), méthode peu praticable  
+
+sur  un  scripteur,  dont  la  présence  est  soustraite.  Ou  alors  il  faudrait  récuser  par 
+
+principe tout propos de cet émetteur, en lui imputant d’être un menteur invétéré et  
+
+constant,  tels  les  Crétois  du  paradoxe  du  menteur.  Mais  ce  serait  aller  contre  le 
+
+« principe  de  charité »  de  Donald  Davidson,  1974,  qui  stipule  que  le  locuteur  est 
+
+rationnel  et croit  que ce qu’il  dit  est  vrai.  De nombreuses formulations alternatives 
+
+et/ou objections ont été proposées par divers philosophes anglo-américains. Version 
+
+plus faible : la « condition de félicité » d’Erwin Goffman, 1979, qui  invite à « juger les 
+
+actes verbaux d’un individu comme n’étant pas une manifestation de bizarrerie ».
+
+Bref, de fait, l’énoncé premier du tweet Bourdin est admis par le lectorat comme 
+prémisse et fondement de l’argumentation à venir. Or, cet « accord de l’auditoire » est 
+
+
+
+une condition non triviale de l’exposé, dont l’importance a été soulignée par Perelman 
+et Olbrechts-Tyteca au §15 de leur Traité de l’argumentation, 1970.
+
+4. - Présupposés et sous-entendus
+Si l’on s’intéresse maintenant aux présupposés de l’énoncé (au sens d’Oswald Ducrot,  
+Dire  et  ne  pas  dire,  1972 ;  réexamen dans  Le  dire  et  le  dit,  1984),  on  relèvera  que  le 
+scripteur se présente comme un être : 1) capable d’amour ; 2) qui travaille ; 3) dont les 
+sentiments sont syntones avec la tâche professionnelle. 
+
+Les  trois  traits  énumérés  sont  directement  déductibles  de  la  signifcation  de 
+l’énoncé telle qu’elle est donnée dans le système de la langue, hors tout contexte. On 
+dira donc que les présupposés relèvent du « composant linguistique » de la description 
+sémantique.
+
+Les sous-entendus s’en distinguent, qui relèvent, eux, du second composant, le 
+« composant rhétorique ». Celui-ci est censé rendre compte de l’effet de sens produit 
+par  l’énoncé  lorsqu’il  est  émis  dans  tel  contexte  particulier,  caractérisé  par  des 
+circonstances  formant  une situation.  À ce niveau,  l’énonciation comme événement 
+vient s’adjoindre, se coudre, à l’énoncé comme structuré. 
+
+À la différence du présupposé, qui dépend de la langue, le sous-entendu dépend 
+du contexte. Autant le présupposé est stable, autant le sous-entendu est instable. Tandis 
+que le présupposé vient avec l’énoncé, qu’un lien logique les attache, « le sous-entendu 
+a  la  particularité  de  pouvoir  toujours  être  renié.  Un  locuteur  peut  toujours  se 
+retrancher derrière le sens littéral de ses paroles, prétendre qu’on lui en a fait dire plus  
+qu’il n’a dit, et laisser à l’auditeur la responsabilité de l’interprétation » (Ducrot). C’est 
+l’une des ressources rhétoriques les plus sollicitées par M. Jean-Marie Le Pen. 
+
+Quels sont les sous-entendus de « J’aime mon métier » ? On ne peut compter 
+sur la logique pour nous l’apprendre, car cette question nous fait quitter la langue pour 
+la zone toujours un peu louche de la connotation. Si la langue fait système, le contexte 
+non :  son  extension  n’est  pas  défnie.  D’où  la  « nébulosité »  du  signifé au  niveau 
+rhétorique : celui-ci « est confus dans la mesure où il dépend étroitement de la situation 
+des individus qui manient le message (…) : de leur savoir, de leurs sentiments, de leur 
+morale, de leur conscience, de l’état historique de la culture dans laquelle ils vivent » 
+(Barthes, Système de la mode, 1967). Lacan met carrément à l’horizon de tout énoncé le 
+« discours universel », sans plus de précision.
+
+La voie du Big Data nous inciterait à simuler le plongement de l’énoncé dans ce 
+discours universel en interrogeant Google sur « J’aime mon métier » et « I love my job ». 
+On pourrait aussi mettre en œuvre « l’épreuve de commutation » (Hjemslev et Uldall, 
+1936, en phonologie). L’opération consisterait ici à faire varier tour à tour chacun des 
+quatre termes composant l’énoncé, soit : le sujet ; le verbe ; l’adjectif  possessif ; le nom. 
+Mais le style de ce billet appelle plutôt un court-circuit. 
+
+Aussi allons-nous confronter le « J’aime mon métier » de Jean-Jacques Bourdin 
+à  l’expression  « (Faire)  le  job »,  objet  de  la  chronique  « Juste  un  mot »  de  Didier 
+Pourquery dans Le Monde du 26 février 2012 (reprise dans son livre Les mots de l'époque, 
+2014).
+
+
+
+5. - Le job et le métier
+« Faire le job/le boulot » fgure, selon le journaliste, dans au moins une interview de 
+
+footballeur sur  deux. « On sent la  pression derrière ces  trois  mots :  ils  ont de gros 
+
+contrats  et  intérêt  à  les  honorer.  D’où  cette  formule.  Ne vous  en faites  pas,  chers 
+
+supporters, nous ferons le spectacle, nous jouerons un bon football. En sous-texte, il y a 
+
+quand même l'idée que cela se fera sans génie ou sans éclat. Faire le boulot, ça vous a 
+
+un côté un peu terne, quasi service minimum. Mais bon, ça le fera. »
+
+ Le  « sous-texte »  de  « J’aime  mon  métier »  est  en  opposition  polaire  avec 
+celui-ci : il ne s’agit pas d’argent, mais d’amour ; le service ne sera pas minimum, mais 
+maximum ; le spectacle ne sera pas terne, il aura de l’éclat, du génie.
+
+Les politiciens sont eux aussi prodigues de l’expression : « En politique, autre 
+sport de compétition, faire le job – ou le boulot – se situe pareillement dans un registre 
+ambigu. On sent comme un contexte caché. Il ou elle fait le job, malgré... Il ou elle 
+assure. »  En  revanche,  le  « J’aime  mon  métier »  dissipe  tout  « contexte  caché »  et 
+balaie toute réticence, réserve mentale, hypocrisie. Autant le sujet qui fait le job est  
+divisé, autant celui qui aime son métier est tout d’une pièce, sans cachette.
+
+La polarité des sous-entendus refète en l’accentuant une différence déjà sensible 
+au  niveau  lexical.  « Job »  peut,  certes,  être  employé  dans  le  sens  de  « métier », 
+néanmoins le halo sémantique de chacun des deux mots est bien distinct, voire opposé. 
+
+« Job » est un anglicisme appartenant à la langue familière. Il est inconnu de 
+
+Littré,  sauf  comme nom propre  du patriarche,  et,  sous  la  forme « jobe »,  comme 
+
+étymon de « jobard ». Il s’est imposé en français vers le milieu du siècle dernier, et il a 
+
+été lexicalisé, ce qui n’est pas le cas en allemand, espagnol, italien ou russe. Un job,  
+
+c’est,  selon  Robert,  un  « travail  rémunéré,  qu’on  ne  considère  généralement  pas 
+
+comme un véritable métier ».
+
+Le lignage de « métier » est de plus haute volée : il remonte au latin ministerium, 
+
+et il est attesté dès le Xe siècle. Il est d’humble extraction, car le minister (minus+ter) n’est 
+
+que le serviteur, l’instrument, l’agent, le ministre, qui fait pendant au magister (magis+ter), 
+
+celui  qui  commande ou le maître qui  enseigne.  Mais  ministerium s’est élevé par son 
+
+croisement avec mysterium et, de là, par son association au service divin, Deo menestier. 
+
+Robert :  « Métier s’employait  et  s’emploie  parfois  encore,  en  parlant  d’une 
+occupation  noble,  d’un  art,  pour  mettre  l’accent  sur  le  travail,  la  technique  qu’il 
+exige. » Au mot « métier » sont donc attachées les notions conjointes d’humilité et de 
+ferté,  mêlées  aux  valeurs  de  savoir-faire  et  de  travail  bien  fait,  notions  et  valeurs 
+absentes du halo sémantique de « job ».
+
+
+
+Le choix du mot « métier » dans le tweet Bourdin est donc bien de nature à 
+
+rehausser la fgure du scripteur aux yeux du lecteur et à susciter chez celui-ci un pathos 
+
+de confance et  bienveillance.  Le mot  apparaît  de plus  singulièrement  approprié  à 
+
+exalter la valeur du journalisme au moment où il est imputé à M. Bourdin de prendre 
+
+des libertés avec le code des devoirs de cette profession et où l’accusé rétorque qu’il  
+
+entretient au contraire avec celle-ci une relation amoureuse. Il n’est d’ailleurs pas seul  
+
+dans ce cas, puisque ce mois-ci a vu paraître un Dictionnaire amoureux du journalisme, dont 
+
+l’auteur, M. Serge July, notre ancien camarade de la GP, évoque les « sévères mises au 
+
+pilori » que subissent actuellement la presse et les journalistes. 
+
+L’usage de l’adjectif  possessif  est  congruent avec l’affrmation d’une relation 
+
+amoureuse du sujet avec le complément d’objet direct. Cependant, « mon » n’établit 
+
+pas,  au sens  strict,  un rapport  de possession ;  il  affrme plutôt  l’existence d’un lien 
+
+personnel  du  sujet  avec  le  terme  en question.  Impliquer  dans  cette  phrase  « mon 
+
+métier » plutôt que « le métier de journaliste » a pour effet de laisser au sujet la liberté 
+
+de défnir ce dernier à sa manière, une manière non conformiste, non standard. C’est 
+
+en effet ce qu’il fera, sitôt passé le deux-points sur quoi se clôt l’exorde.
+
+Avant  d’en venir  au second mouvement  du discours,  je  relèverai  encore un 
+usage du mot « métier » que m’apprend Didier Pourquery. C’est « dans le jargon du 
+cyclisme » qu’il aurait cours. « Un coureur qui fait le métier est celui qui s'entraîne 
+avec rigueur, selon les règles, et se donne à fond pour être performant ; mais c'est aussi 
+celui qui utilise tous les moyens disponibles pour être dans le peloton de tête, y compris 
+de louches potions ».
+
+6. - Absence, élision, contraction
+Après l’exorde, la dispositio classique exigerait narratio et argumentatio, un exposé des faits 
+
+suivi de l’exposé des arguments. Vient à cette place, dans le tweet Bourdin, une seule 
+
+phrase à l’infnitif, introduite par la ponctuation du deux-points. Cette combinaison fait 
+
+
+
+comprendre que  le  scripteur  donne sa  défnition à  lui  de ce  qu’il  a  préalablement 
+
+désigné comme « mon métier ».
+
+Absence de la narration. Au moment où le tweet est diffusé, il ne s’est écoulé que 
+
+trois heures depuis l’émission en question ; celle-ci a été enregistrée et flmée ; l’incident 
+
+est vu à volonté sur de nombreux sites. On peut donc croire qu’il y a accord sur les 
+
+faits, et que cet accord rend la narration inutile. 
+
+Elision  de  l’argumentation  adverse.  Dans  le  laps  de  temps  qui  sépare  la  fn  de 
+
+l’émission (8h56) de l’envoi du tweet (12h19), les réactions se sont multipliées, en mode 
+
+« tempête ».  Réactions  hostiles  à  l’interviewé,  pour  n’avoir  pas  nié  que  le  Premier 
+
+ministre soit  « sous infuence juive ».  Réactions hostiles  à l’intervieweur,  pour avoir 
+
+questionné  l’interviewé  en  utilisant  ladite  expression,  fortement  connotée.  Tout  ce 
+
+chapitre  est  élidé.  En  théorie  de  l’argumentation,  on  parlera  d’ignoratio  elenchi, 
+
+d’ignorance  du  contre-argument.  Si  c’est  un  sophisme,  il  est  ici  « volontaire  et 
+
+tactique » (voir Olivier Reboul, Introduction à la rhétorique, 1991).
+
+Contraction de  la  justification.  L’argumentation favorable au sujet  du discours,  la 
+
+probatio, n’a pas de traduction reçue ; je dirai : « la justifcation ». Elle est ici réduite à 
+
+une phrase à l’infnitif. Celle-ci relève du genre de la défnition et fonctionne à cette 
+
+place  comme  un  « argument  quasi  logique »  au  sens  du  Traité  de  l’argumentation 
+
+(désormais cité TA). 
+
+7. - Facettes de la définition
+Nous exploitons ici les distinctions apportées par le §50 du  TA consacré à la 
+
+défnition. 
+
+
+
+1) La défnition incluse dans le tweet Bourdin se présente comme « normative », 
+non parce qu’elle expliciterait la norme, la déontologie ou le concept du métier de 
+journaliste, mais pour autant qu’elle développe ce que le seul M. Bourdin entend par 
+« mon métier ». Du point de vue logique, un énoncé normatif  n’est ni vrai, ni faux, il 
+est conventionnel.
+
+2) Cependant, cette défnition est également « descriptive » ou « réelle », dans la 
+mesure où elle est censée exprimer la nature de la pratique journalistique effective de 
+M. Bourdin.
+
+3) De plus, elle est évidemment « condensée » et partielle, puisqu’elle se limite à 
+un seul trait de cette pratique.
+
+4)  Combinant  les  trois  aspects  précités,  la  défnition  Bourdin  mérite  d’être 
+qualifée de « complexe » au sens du TA. Cette complexité tend à faire de cet énoncé 
+un miroir aux alouettes. En effet, s’il est ouvert à contestation en tant que descriptif  et  
+partiel, son caractère conventionnel et personnel, qui le rend infalsifable, recouvre et  
+valide le tout. 
+
+On  pourrait  donc  soutenir  que  le  dispositif  discursif  « libre  défnition  par 
+M. Bourdin de son métier » constitue en réalité le sophisme connu sous le nom de 
+« pétition de principe ». Faire une pétition de principe, c’est « prendre pour accordé, 
+sous une forme un peu différente, la thèse même qu’il s’agit de démontrer » (André 
+Lalande,  La  raison  et  les  normes,  1948).  Cependant,  récuser  à  ce  titre  la  défnition 
+Bourdin empêcherait d’entrer plus avant dans le schème conceptuel qui la supporte. 
+
+8. - Le « philosophiquement correct »
+Sous l’un de ces aspects, je l’ai dit, la défnition Bourdin est descriptive, mais ce qu’elle  
+décrit n’est pas la méthode (les procédés, la manière de faire) du journaliste-star. Elle 
+décrit stricto sensu le résultat attendu de l’application de cette méthode. 
+
+Vue sous cet angle, la phrase B du tweet est exactement ce que le TA appelle au 
+§62  un  « argument  pragmatique »,  à  savoir  un  argument  qui  évalue  un  acte  en 
+fonction de ses conséquences.  La pratique Bourdin de l’entretien médiatique aurait 
+ainsi  pour  conséquence  de  « faire  dire  à  [ses]  interlocuteurs  ce  qu’ils  pensent 
+vraiment.. » À quoi les points de suspension ajoutent leur valeur sémantique, qui est de 
+laisser entendre que « ce qu’ils pensent vraiment » est très différent de ce qu’ils disent 
+ordinairement. 
+
+En ce moment de l’analyse, il convient de rappeler que ce tweet est du genre 
+épidictique,  que  c’est  un  auto-éloge,  que  M. Bourdin  y  défend  et  y  promeut 
+M. Bourdin.  L’isotopie  du message exige donc de tenir  pour  acquise  la  préférence 
+suivante : parvenir à dire, et spécialement par le canal de M. Bourdin, ce qu’on pense 
+vraiment, est en soi plus désirable, meilleur, que son contraire, ne pas dire ce qu’on 
+pense vraiment. 
+
+Rien  de  plus  facile  que  de  formuler  une  suite  d’énoncés  isotopes  à  cette 
+préférence.  La  sincérité  l’emporte  sur  l’hypocrisie.  La  véracité  vaut  mieux  que  la 
+fausseté. Le dire-vrai terrasse la menterie. Etc. Cette suite obéit à une même hiérarchie 
+de valeurs,  laquelle  sous-tend chacun des  énoncés  énumérés.  On est  d’autant  plus 
+
+
+
+porté à valider cette hiérarchie bivalente que celle-ci est l’un des plus vastes et des plus  
+prégnants lieux communs de la pensée européenne.
+
+Ainsi,  rédigé  vers  midi  en  raison  des  remous  créés  par  le  « politiquement 
+incorrect » de l’émission matinale, le tweet Bourdin est à tous égards dans le droit fl du 
+« philosophiquement correct ».
+
+Ainsi,  mis  en  cause  pour  le  « politiquement  incorrect »  de  son  émission 
+matinale,  Bourdin  a  rédigé  trois  heures  plus  tard  un  tweet  qui  brille  par  son 
+« philosophiquement correct ». « Run for cover ! », dit-on en anglais, cours vite te mettre 
+à l’abri !
+
+9. - Dramaturgie de l’entretien
+
+En français, celui qui ne dit pas ce qu’il pense vraiment s’appelle un hypocrite. Sur 
+l’hypocrisie, « ce qui reste quand on a tout oublié » (spirituelle défnition de la culture 
+par  Edouard  Herriot),  c’est  la  maxime  de  La  Rochefoucauld :  « L’hypocrisie  est 
+l’hommage que le vice rend à la vertu. » Ces références suffsent à éclairer qui est qui 
+dans les entretiens matinaux de Jean-Jacques Bourdin.
+
+La  place  de  l’interlocuteur  est  prédéterminée :  il  est  là  qui  joue  le  rôle  de 
+l’hypocrite et du vicieux. Il  parle, mais il ne dit pas ce qu’il  pense vraiment. À qui  
+cache-t-il  ses  pensées véritables ?  Au public.  Mais  qui  est  le  public ?  C’est  le  tout-
+venant,  les  Français,  le  peuple  quoi !  Qui  l’hypocrite  trompe-t-il ?  Le  peuple, 
+précisément.  Qui  représente  la  vertu  recevant  malgré  elle  l’hommage malséant  de 
+l’hypocrite ?  Le  peuple,  derechef.  Qui  représente  la  volonté  de  vérité  du  peuple 
+vertueux, exigeant de l’hypocrite qu’il cesse ses manigances pour passer aux aveux ou, 
+mieux encore, le démasquant en temps réel ? Bourdin, Jean-Jacques pour les intimes – 
+et pour les lettrés, car ils ne sauraient manquer de l’identifer ici au grand écrivain que 
+son prénom sufft à désigner. « Vitam inpendere vero », vouer sa vie à la vérité, est la devise 
+de Jean-Jacques. Bourdin ? Rousseau ? Ici, c’est tout un.
+
+ Ni à l’un, ni à l’autre, n’agrée l’hommage du vice. Rousseau ne cède pas à ses 
+blandices : « l'hypocrisie est un hommage que le vice rend à la vertu. Oui, comme les 
+assassins de César, qui se prosternoient à ses pieds pour l'égorger plus sûrement. Cette 
+pensée a beau être brillante, elle a beau être autorisée du nom célèbre de son auteur,  
+elle n'en est pas plus juste. Dira-t-on jamais d’un flou qui prend la livrée d’une maison 
+pour faire son coup commodément, qu’il rend hommage au maître de la maison qu’il 
+vole ? » (Réponse au roi de Pologne,  1751 ou 1752). Quant à Bourdin, l’hypocrite, il le 
+traque,  il  le  bouscule,  il  ne  lui  laisse  aucun  répit.  « Parlez !  Les  Français  veulent 
+savoir ! », clame sa marionnette, qu’il adore, aux Guignols de l’info.
+
+
+
+Que cache l’hypocrite ? Ce qu’il pense vraiment. Et pourquoi ? Parce que ses 
+pensées  véritables  blessent  l’honnêteté,  la  décence,  la  « common  decency »  d’Orwell. 
+Aristote dans sa Rhétorique : « On rougit de paroles, d’actions, d’intentions honteuses. » 
+Et  de citer  ce dialogue  en vers  de Sappho,  qui  n’est  connu que  par cette  citation 
+même :
+
+ALCÉE
+
+Je voudrais faire un aveu, mais l’aidos [décence, pudeur, prudence] me retient.
+SAPPHO
+
+Si tu avais un noble et beau désir, si ta langue ne brouillait pas tout pour masquer une 
+inconvenance, la honte n’emplirait pas tes yeux ; tu aurais parlé franchement d’une 
+chose juste.
+
+Par exception, et en raison de ce passage, on prête à la poétesse de Lesbos une 
+liaison avec Alcée de Mytilène, un homme, un poète lyrique lui aussi, son compatriote.
+  
+
+10. –  Le surmoi, de Freud à Lacan
+La fonction inhibitrice que Sappho attribue à l’aidos est, de notre temps, supportée par 
+une invention freudienne, le surmoi. Il s’agit d’une « instance » différenciée du moi, 
+apte à le prendre pour objet et à le juger au nom d’une loi d’autant plus rigide et 
+cruelle qu’elle  est faite de bric et de broc : interdiction de l’inceste,  renoncement à 
+l’hostilité  envers  l’autorité,  exigences  de  la  vie  en  société,  apports  éducatifs,  
+prescriptions religieuses, leçons de morale, instruction civique, et  tutti quanti. Ce côté 
+attrape-tout  en  fait  selon  Freud  « le  représentant  de  la  tradition,  et  de  tous  les 
+jugements de valeurs qui subsistent ainsi à travers les générations ».
+
+Depuis son apparition en 1923, le concept du surmoi, c’est un fait, est devenu 
+populaire. Il parle au plus grand nombre. Il répond à quelque chose qui appartient à 
+l’expérience intérieure du civilisé du XXe siècle, et cela se poursuit apparemment au 
+XXIe, quelque chose comme le sentiment d’être habité, dominé ou parasité par « une 
+poupée qui fait non, non, non, non » (Michel Polnareff, 2003) lorsqu’il voudrait passer 
+à l’acte et réaliser des désirs qui ne sont sans doute ni plus beaux, ni plus nobles, que 
+ceux du pauvre Alcée.
+
+Le Docteur Knock décelait l’homme malade sous les apparences de la bonne 
+santé. Jean-Jacques Bourdin voit dans ses interlocuteurs ce qui les ronge : leur surmoi. 
+Ils  souffrent  de ne pas  dire  ce qu’ils  pensent vraiment.  Le temps de l’entretien au 
+moins, il les soulage. Comment fait-il ? Tout se passe comme s’il avait connaissance du 
+tour d’écrou supplémentaire donné par Lacan au concept du surmoi.  
+
+Tout part de ce paradoxe. On constate dans l’expérience clinique, et parfois à 
+
+l’œil nu dans la vie quotidienne, que plus vous renoncez à satisfaire vos désirs pour 
+
+complaire aux réquisits de votre surmoi, plus celui-ci se montre sévère et exigeant. Il en 
+
+veut toujours plus, il est « gourmand ». Pour faire image, pensez à DSK et à Mère 
+
+Teresa. Le surmoi du débauché lui fche selon toute apparence une paix royale, on l’a  
+
+
+
+vu notamment lors de son procès à Lille, tandis que tous les témoignages indiquent que 
+
+son surmoi faisait vivre à la sainte les tourments de l’Enfer. Ce n’est pas juste ? Eh oui ! 
+
+Mais c’est comme ça. Le surmoi semble exiger que la pulsion renonce à la satisfaction, 
+
+mais si elle le fait, il s’irrite ; si elle ne le fait pas, il s’apaise. Disons, pour animer la 
+
+chose, que  le surmoi gueule : «  Cède sur ton désir !  Laisse tomber ton fantasme ! 
+
+Renonce  à  ta  jouissance ! »,  mais  si  vous  parvenez  à  lui  faire  dire  ce  qu’il  pense 
+
+vraiment, vous entendez : « Jouis ! »
+
+Qui est Bourdin quand vous venez vous asseoir en face de lui ? C’est le porte-
+
+parole  du  peuple  français  vertueux.  Edwy  Plenel  exerce  la  même  magistrature 
+
+informelle, mais sa méthode est différente. 
+
+À Médiapart, on prend acte de vos propos. Puis, on les recoupe avec d’autres 
+
+témoignages,  recueillis avec art et  persévérance. Enfn, mis à part quelques-uns qui 
+
+reçoivent  les  félicitations  du jury,  vous êtes  convaincu de mensonge,  malhonnêteté,  
+
+incompétence, paresse, racisme, abjection ou bêtise, c’est selon. Ce qu’incarne Plenel,  
+
+c’est le surmoi à l’ancienne, le surmoi freudien, impitoyable avec les petites comme 
+
+avec les grandes faiblesses du genre humain. 
+
+Le plus bel exemple date du consulat de Plenel au  Monde avec Colombani et 
+
+Minc : la mise au pilori de Roland Dumas, justement. Qui ne se souvient des bottines  ? 
+
+des statuettes ? de l’argent liquide fourré dans des coffres de banque ? Tout cela, livré 
+
+saignant à un peuple devenu addict, exigeant deux ou trois fois par semaine sa livre de 
+
+chair. Ah ! il n’était pas beau à voir, le Roland, quand les justiciers se lassèrent :
+
+Mais je n'ai plus trouvé qu'un horrible mélange
+
+D’os et de chairs meurtris et traînés dans la fange,
+
+Des lambeaux pleins de sang et des membres affreux 
+
+ Que des chiens dévorants se disputaient entre eux.
+
+Le plus drôle – est-ce le mot juste ? – est qu’en appel, Dumas « fut reconnu 
+
+innocent de l'ensemble des chefs d’accusation qui l’avaient amené devant la justice » 
+
+(Wikipédia).
+
+Voyez maintenant Dumas devant Bourdin. C’est le jour et la nuit. Bourdin est  
+
+tout miel.  Il  n’attend pas que Roland se tienne bien.  C’est tout le  contraire :  il  est 
+
+entendu que Dumas est un coquin, un bon petit diable, plus politiquement incorrect tu  
+
+meurs.  Le  contrat,  c’est  qu’il  se  lâchera,  qu’il  bravera  le  surmoi  et  son  cortège 
+
+d’interdits, qu’il se fera plaisir, et à nous, du même coup. Bourdin dit en somme ce que  
+
+dit le surmoi lacanien : « Jouis ! »
+
+Bourdin,  l’Homme  pulsionnel !  C’est  le  sens  caché  du  slogan  qui  sert 
+d’argument-marketing pour vendre le journaliste-vedette : « L’Homme libre ».  Il  est 
+libre parce qu’il a rejeté les chaînes du surmoi d’interdiction ; libre parce qu’il est, au 
+sens propre, qui est aussi celui du Canard, déchaîné ; libre parce que sa libido est libre.
+
+L’enjeu secret de chaque entretien matinal, celui qui retient tant d’auditeurs et 
+de  spectateurs,  c’est  de  savoir  si  l’invité  du  jour  fera  ou  non  le  saut  de  la  mort.  
+Choisira-t-il de rester tapi dans la tanière où il s’abrite des foudres du surmoi n° 1 ? Ou 
+
+
+
+osera-t-il rejoindre Bourdin pour s’ébrouer avec lui et le surmoi n° 2 au grand air de la 
+liberté ? 
+
+Le  plus  souvent,  c’est  tangent.  L’invité  hésite,  tergiverse,  voudrait  noyer  le 
+poisson. Il est tenté, mais on voit son fl à la patte comme le nez au milieu du visage.  
+Bourdin le  houspille,  le  fatte,  fait  la  grosse  voix.  Tempête sous un crâne (celui  de 
+l’invité) : le « politiquement correct » et le « politiquement incorrect » sont aux prises, 
+qui aura le dessus ? Le suspense est total. 
+
+Il est rare que le PC soit terrassé. D’ordinaire, il tient le coup, mais l’incorrect 
+s’insinue dans une fssure. L’invité, divisé, écartelé, aux abois, lâche une bourde. Elle 
+fera le buzz du jour. 
+
+Bourdin, l’Homme aux bourdes… des autres !
+À suivre
+
+Lacan Quotidien
+publié par navarin éditeur
+
+INFORME ET REFLÈTE 7 JOURS SUR 7 L’OPINION ÉCLAIRÉE              
+
+▪ comité de direction
+ directrice de la rédaction catherine lazarus-matet clazarusm@wanadoo.fr
+
+directrice de la publication eve miller-rose eve.navarin@gmail.com
+
+conseiller jacques-alain miller
+
+▪ comité de lecture 
+pierre-gilles gueguen, catherine lazarus-matet, jacques-alain miller,  eve miller-rose, eric 
+zuliani
+
+▪ équipe
+édition cécile favreau, luc garcia
+
+diffusion éric zuliani
+
+mailto:clazarusm@wanadoo.fr
+mailto:eve.navarin@gmail.com
+
+
+designers viktor&william francboizel vwfcbzl@gmail.com
+
+t  echnique     mark francboizel   &   olivier ripoll  
+
+médiateur     patachón valdès   patachon.valdes@gmail.com
+
+▪     suivre Lacan Quotidien     :  
+▪ecf-messager@yahoogroupes.fr ▫ liste d’information des actualités de l’école de la cause 
+freudienne et des acf ▫ responsable : éric zuliani
+
+▪pipolnews@europsychoanalysis.eu ▫ liste de diffusion de l’eurofédération de psychanalyse 
+
+▫ responsable : gil caroz
+
+▪amp-uqbar@elistas.net ▫ liste de diffusion de l’association mondiale de psychanalyse ▫ 
+responsable : oscar ventura
+
+▪secretary@amp-nls.org ▫ liste de diffusion de la new lacanian school of psychanalysis ▫ 
+responsables : Florencia Shanahan et Anne Béraud
+
+▪EBP-Veredas@yahoogrupos.com.br ▫ uma lista sobre a psicanálise de difusão privada e 
+promovida pela AMP em sintonia com a escola brasileira de psicanálise ▫ moderator : patricia 
+badari ▫ traduction lacan quotidien au brésil : maria do carmo dias batista
+
+POUR  ACCEDER  AU  SITE  LACANQUOTIDIEN.FR    CLIQUEZ ICI.
+
+• À l’attention des auteurs 
+
+Les propositions de textes pour une publication dans Lacan Quotidien sont à adresser par 
+mail (catherine lazarus-matet clazarusm@wanadoo.fr  )     ou directement sur le site 
+lacanquotidien.fr  en cliquant sur "proposez un article",
+Sous fichier Word ▫ Police : Calibri ▫ Taille des caractères : 12 ▫ Interligne : 1,15 ▫ 
+Paragraphe : Justifié ▫ Notes : à la fin du texte, police 10 • 
+
+•À l’attention des auteurs & éditeurs 
+
+Pour la rubrique Critique de Livres, veuillez adresser vos ouvrages, à NAVARIN 
+
+ÉDITEUR, la Rédaction de Lacan Quotidien – 1 rue Huysmans 75006 Paris.
+
+http://lacanquotidien.fr/
+mailto:clazarusm@wanadoo.fr
+http://www.lacanquotidien.fr/blog/
+mailto:EBP-Veredas@yahoogrupos.com.br
+mailto:secretary@amp-nls.org
+mailto:pipolnews@europsychoanalysis.eu
+mailto:patachon.valdes@gmail.com
+mailto:vwfcbzl@gmail.com
+

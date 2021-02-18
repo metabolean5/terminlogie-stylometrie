@@ -1,0 +1,67 @@
+langue naturelle
+analyseur syntaxique
+règle gramaticale
+règles nonspécifiques
+sac de mots
+analyse de surface
+logique du premier ou second ordre
+prédicats
+axiomes logiques
+ontologies
+système de dialogue
+interprétation sémantique
+représentation structurelle logique
+analyse structurelle
+modélisation logique
+connectivité sémantique
+arguments
+instances de classes
+modules réseaux communicants
+analyse logique
+morphologique
+Maximum-Entropy Tokenizer
+Chunker
+lemmatiseur
+approche ascendante
+approche ascendante générative
+score d'appariemment
+agent
+réponse formalisée
+VDL
+chaînes de caractères
+concepts
+synonymie
+synsets
+relations binaires
+hyperonymie
+meronymie
+approximations sémantiques
+mesure de similarité
+imprécision
+stratégie de dialogue
+représentation arborescente
+nœuds
+fils
+arguments
+analyse sémantique
+backtrack
+heuristique
+relation
+syntagme nominal
+comparatifs
+superlatifs
+adjectif descriptif
+conjonction
+chunks
+terme
+référence
+évènement
+structure de commande
+fermeture transitive
+contexte courant
+algorithme de moodélisation
+propositions logiques
+symboles de prédicats
+formalisme
+systèmes d'implémentation
+généricité

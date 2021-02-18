@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lacan Quotidien
+
+
+Lundi 21 avril 2014 - 10 h 23   [GMT + 2]
+
+NUMERO 395
+Je n’aurais manqué un Séminaire pour rien au monde— PHILIPPE SOLLERS
+
+Nous gagnerons parce que nous n’avons pas d’autre choix — AGNÈS AFLALO
+
+www.lacanquotidien.fr
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+- Appareillages, coupures -
+
+Le regard, le casque et la tête (II)
+
+par Dominique-Paul Rousseau
+
+On peut encore découvrir deux déclinaisons du casque intéressantes.
+« Le bonnet » avec capteurs :  « Rajesh Rao, informaticien et professeur à l’Université de 
+Washington a réussi, le 12 août dernier, à faire bouger le doigt d’un collègue situé de l’autre 
+côté  du campus en envoyant  un signal  à son cerveau via internet.  Les  deux personnes 
+étaient en fait connectées par Skype sans pouvoir voir les écrans. L’un, Rao, équipé d’un 
+bonnet  relié  à  un  électro-encéphalogramme  (EEG)  lisant  les  activités  électriques  du 
+cerveau, jouait à un jeu vidéo avec son esprit. Lorsqu’il voulait tirer un coup de feu sur une 
+cible, il imaginait cliquer sur le bouton avec sa main droite, tout en prenant garde ne pas  
+exécuter  l’action.  Presque  instantanément,  son  collègue,  Stocco,  portant  également  un 
+bonnet  relié  à  un  appareil  composé  de  capteurs  placé  sur  son  cortex,  a  déplacé 
+involontairement sa main droite pour effectuer le tir. » (1)  La démonstration serait donc 
+faite que, du langage, on peut s’en passer. Le bonnet à capteurs nous soustrairait à cette 
+castration majeure, fondatrice, traumatique que constitue le langage.
+
+Autre  variante  ultracontemporaine du  casque :  l’Oculus  Rift. Palmer  Luckey,  jeune 
+américain de 21 ans,  a créé un casque de réalité virtuelle  « à l’origine de la prochaine 
+révolution technologique » – cela n’a pas échappé à Facebook qui vient de le racheter pour 
+
+
+
+la bagatelle de 2 milliards de dollars alors même qu’Oculus n’a pas généré le moindre chiffre 
+d’affaire,  c’est  dire !  (2)  De  quoi  s’agit-il ?  « L'appareil  se  présente  sous  la  forme  d'un 
+masque recouvrant les yeux et attaché au visage par une sangle fermée à l'arrière du crâne. 
+Un  écran  plat  numérique  est  placé  à  quelques  centimètres  en  face  des  yeux, 
+perpendiculairement  à  l'axe  du  regard.  Cet  écran  affche  une  image  stéréoscopique 
+déformée numériquement pour inverser la distorsion optique créée par deux lentilles situées 
+en face de chaque œil, dans le but d'augmenter le champ visuel et la défnition en face de la  
+fovéa, la zone centrale de la macula. L'écran est placé sur le plan focal de ces lentilles, de  
+telle  sorte  que l'image virtuelle  ainsi  créée se  trouve projetée  à l'infni.  Divers  capteurs  
+permettent de détecter les mouvements de tête de l'utilisateur, ce qui permet d'adapter en 
+temps réel l'image projetée sur l'écran, afn de produire l'illusion d'une immersion dans la  
+scène  restituée.  Le  dispositif  se  démarque  des  systèmes  comparables  expérimentés 
+précédemment par la très courte latence dans le suivi des mouvements de la tête et par 
+l'important champ de vision offert », dit wiki.
+   
+
+                                                
+
+Sur le site offciel de l’Oculus  (3), on apprend non seulement que le champ de vision en 
+largeur passe de 40° à 110° (90° verticalement), mais encore que « We believe so strongly in the  
+importance of  low latency that we built a latency testing system into DK2. Real-time microsecond precision  
+measurement of  motion-to-photon latency lets you optimize your VR (virtual reality) experience ». 
+Le point capital est donc de réduire au maximum le temps de latence entre le mouvement 
+de  la  tête  et  la  production  du  photon sur  l’écran  pour  que  l’illusion  d’immersion soit  
+parfaite. Ainsi, ce ne sont plus les yeux qui suivent une cible sur un écran, mais un écran qui 
+suit une tête qui se meut. 
+Bien entendu l’Oculus connaîtra des applications bien au-delà du jeu vidéo dont l’incidence 
+commerciale ne sera pas des moindres.
+
+En quoi  cela peut-il  intéresser  le  psychanalyste  lacanien ?  Parce que cela  peut  changer 
+quelque chose concernant le regard, dit « objet a » par Lacan. Que nous apprend Lacan au 
+sujet  de  ces  objets ?  Il  nous  dit  qu’ils  sont  premièrement  « réels »  (4),  deuxièmement 
+« séparables » (5).
+Or, chez Oculus, le réel est virtuel : en effet, il y a bien plus de réel dans le virtuel du jeu vidéo,  
+où la férocité rivalise avec l’obscénité (on massacre à tour de bras), qu’il n’y en a dans « la 
+réalité », où « Toute formation humaine a pour essence, et non pour accident, de réfréner 
+la jouissance » (6).
+Lacan nous dit que les objets a « sont séparables parce qu’ils ont déjà anatomiquement un 
+certain caractère plaqué, parce qu’ils sont là accrochés » (7).
+Or, chez Oculus, l’œil se trouve non-séparable de la tête par réduction extrême du temps de 
+latence mouvement de tête–émission du photon. C’est donc la tête tout entière qui devient 
+« séparable » ; elle prendrait alors un statut d’objet a. Telle pourrait bien être la « révolution 
+objectale » qui suivrait comme son ombre cette « révolution technologique » qu’on nous 
+prophétise avec l’Oculus.
+
+
+
+Et, de fait, est-ce qu’on n’assiste pas à une libidinalisation de cet organe, la tête, via le cerveau 
+qui,  comme  le  pénis  –  mais  au  fond  comme  n’importe  quel  organe  bientôt  « bio-
+technologique » –,  « dépasse »  du  corps ?  Avec  insistance  et  modernité,  une  véritable 
+passion neurologique, neuroscientifque, neuropsychologique  via les techniques d’imagerie 
+médicale ne s’est-elle pas emparée de la communauté scientifque ces dernières décennies ?
+
+Ne peut-on en avoir une sorte d’attestation extrême dans la greffe de tête ? 
+Le chirurgien neurologue Robert J. White (1925-2010) était parvenu dans les années 1970 à 
+faire vivre un singe dont la tête avait été transplantée sur le corps d’un autre singe. Si l’état  
+cérébral, la conscience, les fonctions supérieures étaient rétablies, un problème perdurait : la 
+moelle épinière sectionnée ne pouvait être rétablie, entraînant la paralysie totale de l’animal 
+–  fnalement  euthanasié.  À  présent  –  ou  bientôt  –,  d’après  Sergio  Canavero, ce  serait 
+possible :  « Le médecin turinois explique qu’en mettant en contact les deux extrémités de 
+moelle épinière dans une solution composée de deux polymères que sont le polyéthylène 
+glycol  et  le  chitosane,  il  est  possible  de  faire  fusionner  les  cellules  nerveuses.  Ce  qui 
+manquait  à  Robert  White  serait  maintenant  à  notre  portée.  Le neurochirurgien italien 
+prévoit de s’entraîner sur des singes, puis sur des cadavres humains,  avant d’être prêt à 
+tester le procédé grandeur nature d’ici deux ans. » (8) L’article de S. Canavero a été publié 
+dans Surgical Neurology International (9).
+
+       Le Dr White dans les années 1970
+
+Seconde version hypermoderne de la Sainte Lucie de F. de Zurbaran : elle arbore une tête de 
+singe cousue à la Frankenstein sur son corps, tandis que, sur le plateau de cuivre se dresse la 
+cession d’un objet a, soit son ex-tête.
+
+> Lire la première partie de l’article dans LQ 394
+
+1  http://www.atelier.net/trends/articles/premier-reussi-interconnexion-cerveaux-humains_423801
+Cf. Armstrong D., Ma  M., « Researcher controls colleague’s motions in 1st human brain-to-brain interface », University  
+of  Washington, 27 août 2013 (disponible sur internet). http://www.washington.edu/news/2013/08/27/researcher-
+controls-colleagues-motions-in-1st-human-brain-to-brain-interface/
+2 Cf. Fournier A., « Le rachat d’Oculus par Facebook fait polémique », Le Monde supplément « économie et 
+entreprise », 29 mars 2014, p. 4. (disponible sur internet)
+3 http://www.oculusvr.com
+4 Lacan J., Le Séminaire, livre X, L’angoisse, Seuil, Paris, 2004, p. 194.
+5 Ibid., p. 195.
+6 Lacan J., « Allocution sur les psychoses de l’enfant », Autres écrits, Seuil, 2001, p. 364.
+7 Lacan J., Le Séminaire, livre X, L’angoisse, op. cit., p. 195.
+8 « Greffer une tête humaine sur le corps d’un mort : bientôt possible ? », Futura sciences, 1er juillet 2013, 
+http://www.futura-sciences.com/
+9 Canavero S., « HEAVEN: The head anastomosis venture. Project outline for the frst human head transplantation 
+with spinal linkage », Surgical Neurology International, neurosurgical developments on the horizon, year 2013, Vol. 4, Issue 2 [p. 
+335-342] (disponible sur internet).
+
+http://www.washington.edu/news/2013/08/27/researcher-controls-colleagues-motions-in-1st-human-brain-to-brain-interface/
+http://www.washington.edu/news/2013/08/27/researcher-controls-colleagues-motions-in-1st-human-brain-to-brain-interface/
+http://www.atelier.net/trends/articles/premier-reussi-interconnexion-cerveaux-humains_423801
+http://www.lacanquotidien.fr/blog/2014/04/lacan-quotidien-n-394-mammismo-annulation-de-mariage-pour-cause-de-mere-trop-presente-un-pere-tiers-digne-de-confiance-le-regard-le-casque-et-la-tete-i-lu-ce-jour/
+
+
+Contrôle de la coupure
+
+par Gabriela Galarraga
+
+J’ai eu l’occasion d’évoquer avec des chirurgiens de différents pays ce que j’avais dit à la 
+mère  d’un  jeune  patient  de  cinq  ans,  devant  l’insistance de  celle-ci  quant  à  ce  qu’elle 
+appelait  un « maniement  particulier  du temps de la séance ».  Chaque fois  que l’enfant 
+sortait  de  mon  cabinet,  cette  dame  faisait  des  commentaires :  « Eh  bien,  tu  n’as  pas 
+beaucoup parlé aujourd’hui, mon petit ! », disait-elle d’abord, puis c’est devenu : « Déjà ? » 
+ou « C’est du rapide ! », etc. Un jour elle me tança, disant qu’avec les professionnels qu’il 
+avait consultés auparavant, l’enfant « avait ses quarante-cinq minutes », alors qu’avec moi 
+« on ne sait jamais ». Très posément, je lui ai demandé ce qu’elle ferait si on était en train  
+de l’opérer : « Diriez-vous au chirurgien : s’il vous plaît, docteur, opérez-moi un peu plus 
+longtemps ? ».
+
+Cette remarque a déclenché une conversation animée parmi les chirurgiens à propos des 
+changements  survenus  dans  leur  position  au  bloc  opératoire.  Le  professeur  d’urologie 
+E. Pontes de la Wayne University (Michigan USA) a alors parlé de la « Liste de Contrôle de 
+la sécurité chirurgicale »  assurément utile, pour une part, à l’amélioration de la sécurité des 
+interventions  chirurgicales :  chaque point  de contrôle  y  a  été  inclus  avec  pour  base  de 
+référence l’évidence scientifque (Evidence based medicine) et l’opinion d’experts. Cette « Liste 
+de Contrôle » découpe l’intervention en trois phases, chacune d’elle correspondant à un 
+temps spécifque du processus : la période avant l’induction de l’anesthésie (Entrée ou Sign  
+In), la période comprise entre cette induction et l’incision de la peau (Pause chirurgicale ou 
+Time Out),  et  la période comprenant et suivant immédiatement la fermeture de la plaie 
+(Sortie ou Sign Out).
+
+Conçues pour être simples et brèves, beaucoup de ces règles sont, de fait, déjà adoptées et  
+font partie de la pratique au quotidien des chirurgiens dans les établissements du monde 
+entier.  Cependant  cette  contrainte  de  vérifcation  standardisée,  élevée  au  rang  de 
+règlement à suivre ou de code de bonne pratique à appliquer, en vient, selon l’avis de divers 
+professionnels, à faire obstacle à son fonctionnement et à l’entraver. Tout cela est imposé 
+sous l’idéal du « Déf mondial pour la sécurité des patients » et du slogan « La chirurgie 
+sûre  sauve  des  vies »  de  l’Alliance  mondiale  pour  la  sécurité  du  patient  (Organisation 
+mondiale de la santé, OMS).
+
+Cette standardisation des procédures conduit notamment, selon le professeur Pontes, à des 
+situations absurdes où, après avoir respecté toutes les étapes, répondu à toutes les exigences, 
+les chirurgiens et le personnel soignant, qui se connaissent depuis trente ans et qui opèrent  
+ensemble plusieurs fois par semaine, voire parfois plusieurs fois par jour, se trouvent dans 
+l’obligation de se présenter entre eux à chaque intervention : « Je suis le docteur Untel », «  
+Je suis... », presque dans le style des réunions des Alcooliques anonymes !
+
+
+
+L’excès de contrôles et de protocoles met surtout en évidence le fait que le médecin 
+a été désinvesti des insignes et des compétences du scientifque, du chercheur, pour 
+se retrouver mortifé sous le poids de la bureaucratisation des réglementations, et  
+qu’on attend de lui qu’il soit un fonctionnaire servile.
+
+Paradoxalement,  ces  chirurgiens  exprimaient  surtout  que,  plus  ils  se  trouvent 
+corsetés  par  de  telles  mesures,  plus  il  devient  évident,  en  ce  qui  concerne  leur  
+travail, leur pratique, qu’il y a quelque chose que la formation, la standardisation et 
+les contrôles systématiques ne garantissent pas.
+
+Des morceaux de réel qu’ils ne parviennent pas à suturer ?
+
+Traduit de l’espagnol par Anne Goalabré
+
+[NDR : sur le même thème, un « Bout de réel » de G. Galarraga est publié sur le site du IX  e   Congrès de l’AMP  . Bien 
+d’autres Bouts à découvrir]
+
+La SMTr, un outil hypermoderne
+
+par Deborah Allio
+
+Arsène d'Arsonval décrit en 1896 la stimulation du cortex cérébral. Ce 
+physicien étudie l'électrothérapie par les courants à haute fréquence.
+
+Si Sigmund Freud a partagé l'idéal scientiste des chercheurs du XIXe 
+
+siècle, il s'éloigne cependant des thèses neurobiologiques de son temps 
+pour inventer la psychanalyse. Il a rédigé un essai, « L'esquisse d'une 
+psychologie scientifque », qu'il a laissé inédit, préférant publier articles 
+
+et  ouvrages  sur  la  névrose  hystérique :  « c'est  ce  scientisme  […]  qui  a  conduit  Freud, 
+comme ses écrits le démontrent, à ouvrir la voie qui porte à jamais son nom » (1), indique 
+Jacques Lacan. 
+
+La stimulation magnétique transcrânienne répétitive  (SMTr)  fut  mise  au point  dans les 
+années  1980  et  sa  première  application  date  de  1985,  réalisée  par  Anthony  Baker  en 
+Angleterre.  Outil  d'investigation  à  visée  diagnostique,  elle  permet  de  cartographier  et 
+d'étudier les régions du cerveau.  Sous sa forme actuelle, elle trouve une application dans le 
+dépistage et la surveillance de maladies organiques et neurologiques (Parkinson, Alzheimer, 
+sclérose latérale amyotrophique, accident vasculaire cérébral, aphasie). Infuant sur l’activité 
+électrique  cérébrale  au  moyen  d’un  champ  magnétique  pulsé,  elle  modife  l'activité 
+neuronale dans la région du cerveau visée. Elle augmente ou elle diminue sélectivement 
+l'excitabilité des neurones en fonction du résultat recherché. Elle est dite répétitive puisque 
+la stimulation est transmise à des intervalles réguliers. Le protocole consiste en plusieurs 
+séances pendant plusieurs semaines. 
+
+http://www.congresamp2014.com/fr/Trozos-de-real.php?file=Trozos-de-real2.html
+http://congresamp2014.com/es/Trozos-de-real_Textos.php?file=El-Chequeo-del-Corte_Gabriela-Galarraga.html
+http://www.congresamp2014.com/fr/Trozos-de-real_Textos.php?file=El-Chequeo-del-Corte_Gabriela-Galarraga.html.
+
+
+Dans  les  années  1990,  Hölfch  et  Al.  ont  suggéré  que  la  SMTr  aurait  des  effets 
+antidépresseurs. Les premiers essais cliniques pour la dépression commencent et ouvrent 
+aux chercheurs  de nouvelles perspectives.  La visée thérapeutique de cette  technique est  
+mise  en  avant.  Elle  est  dorénavant  utilisée  pour  le  traitement  de  certaines  affections 
+psychiatriques. La SMTr, non douloureuse et ne présentant pas d'effets secondaires, séduit 
+davantage que la vieille sismothérapie.
+
+Elle vise donc à modifer la pensée et les troubles des patients, dont l'amélioration est mise 
+en  valeur  par  des  études  qui  n'ont  cependant  aucune  validité  scientifque  attestée.  
+« Beaucoup d'inconnues  subsistent »  (2),  rapporte  David  Szekely,  praticien  au  CHU de 
+Grenoble, associé à une étude française. La vérité scientifque semble recherchée par les 
+jeunes  praticiens,  la  science  apparaissant  comme  une  boussole   pour  « les  sujets 
+contemporains,  postmodernes,  voire  hypermodernes,  désinhibés,  néodéshinibés, 
+désemparés, déboussolés » (3), ainsi que l’indique Jacques-Alain Miller.
+
+La psychiatrie est mise au pas du progrès des neurosciences. La SMTr associe la pathologie 
+psychiatrique et  l'anomalie organique en excluant la causalité  psychique. Cette nouvelle 
+technologie qui combine la neuroimagerie et l'intervention sur le cortex cérébral pourrait  
+venir en substitution ou en complément au traitement pharmacologique lorsque le patient  
+est  dit  résistant  à  celui-ci.  Les  indications  de  la  SMTr  se  généralisent  dans  le  champ 
+psychiatrique  (dépression,  mélancolie,  douleur  chronique,  schizophrénie,  troubles  de 
+l'attention, hyperactivité et bientôt l'anorexie). Il s'agit pourtant de ne pas céder sur l'éthique 
+du soin en refusant de réduire la prise en charge du patient au traitement du symptôme 
+répertorié par la nouvelle classifcation internationale des maladies (CIM 10).
+
+L'utilisation de la stimulation électrique s'étend dans les institutions privées mais également 
+dans les établissements publics de santé mentale (EPSM). L'enjeu économique n'est  pas 
+négligeable. Le matériel, composé du stimulateur et du logiciel de visualisation, est coûteux. 
+Le prix de l'appareillage varie de 40 000 euros à 100 000 euros en fonction de la fréquence 
+maximale de stimulation. Mais un retour sur investissement est attendu. L'institution qui en 
+fait  l'acquisition accueille  en contrepartie  d'un fnancement des  patients  en ambulatoire 
+orientés par des praticiens.
+
+« La science, écrit Lacan, est une idéologie de suppression du sujet » (4). La neuroscience 
+pense savoir localiser le plus réel du sujet mais « c'est justement ce réel, écrit Miquel Bassols, 
+que la psychanalyse repère comme impossible à (se) représenter » (5). Le non savoir propre 
+à la psychanalyse est ainsi étranger à cette quête scientiste de savoir.
+
+1 Lacan J., « La science et la vérité », Écrits, Paris, Seuil, p.857.
+2 Layan E., « Le courant continu stimule les neurones », Le monde.fr, 28 décembre 2013.
+3 Miller J.-A., conférence de Comandatuba, IV Congrès de l'AMP, 2004, Bahia, Brésil.
+4 Lacan J., « Radiophonie », in Scilicet, Le Seuil, 1970, p. 89.
+5 Bassols M., « Il n'y a pas de science du réel », Psychanalyse, science et scientisme, Mental n°25, mars 2011, p. 85.
+
+****
+
+
+
+LU CE JOUR
+
+par P-G Guéguen
+
+17 avril
+Deneuve : l'(a)normale
+« J'avais  dit  mes  doutes  sur  le  mariage  en  général,  institution  dont  les  hétérosexuels 
+cherchent plutôt à s'émanciper, vu la proportion de divorces. Le mariage a été inventé pour 
+protéger  la  femme qui  ne travaille  pas.  C'est  un modèle  ancien.  Ça m'embête  de voir 
+maintenant la famille traditionnelle se dresser pour empêcher l'évolution de la société. Il 
+faut  apprendre  à  vivre  avec  la  réalité  d'aujourd'hui.  Par  exemple,  on sait  bien  que  les 
+parents n'ont plus le temps de couver leurs enfants. Il s'agit plutôt de les accompagner. Je  
+suis favorable à un renforcement de l'instruction civique à l'école, dès le plus jeune âge. Et à  
+davantage d'éducation sexuelle aussi : beaucoup d'enfants restent trop longtemps dans une 
+ignorance  totale.  Sur  ces  questions  de  société,  je  suis  très  éloignée  d'une  quelconque 
+norme : je me suis mariée une seule fois, je n'ai pas eu d'enfants avec mon mari, j'ai eu des 
+enfants hors mariage de deux pères différents, que j'ai élevés seule, et la plupart de mes amis 
+sont homosexuels, hommes et femmes. » Télérama, entretien avec Catherine Deneuve.
+
+19 avril
+No Child Left Undiagnosed
+« 'Sluggish Cognitive Tempo' may possibly be the very dumbest and most dangerous diagnostic idea I have  
+ever encountered. And I have seen some beauts during my forty years of  shooting down crazy new diagnostic  
+dream lists. The wild suggestions are usually created by 'experts' brimfull with diagnostic exuberance...  »  
+Allen Frances, The Huffington Post.
+
+Visco-élastique
+« C'est une véritable bombe qu'a lâchée François Hollande vendredi lors d'un déjeuner avec 
+des dirigeants et des salariés de Michelin : si le chômage ne recule pas d'ici à 2017, je n'ai  
+"aucune raison d'être candidat" à un deuxième mandat, a déclaré le chef  de l'État. Autour  
+de la table, personne n'a bronché parmi la vingtaine de convives, mais ces quelques mots 
+n'ont pas échappé au ministre de l'Économie Arnaud Montebourg, qui a marqué un temps 
+de surprise. » Le Point, source AFP.
+
+
+
+Que veut Francis ?
+« A little over a year into Francis’s tenure, debate continues to rage throughout the church over the question of  
+just how radical this pope really is, and the degree to which he might shift the Catholic spotlight from issues  
+of  sexual morality onto those such as poverty, immigration, torture, and even the environment. Not that issues  
+of  poverty and human dignity haven’t always concerned church leaders: “They just never got much attention  
+if  they didn’t involve a confict over some sexual issue,” says John Carr, who served 25 years as the director  
+of  justice, peace, and human development for the United States Conference of  Catholic Bishops (USCCB).  
+But in the Francis era, says Carr, “the same work takes on added meaning and, you hope, takes on added  
+visibility and passion”. » Article de Michelle Cotelle, The Daily Beast
+
+Lacan Quotidien
+publié par navarin éditeur
+
+INFORME ET REFLÈTE 7 JOURS SUR 7 L’OPINION ÉCLAIRÉE              
+
+▪ comité de direction
+présidente eve miller-rose eve.navarin@gmail.com
+
+rédaction catherine lazarus-matet clazarusm@wanadoo.fr
+
+conseiller jacques-alain miller
+
+▪ rédaction
+coordination catherine lazarus-matet clazarusm@wanadoo.fr
+
+comité de lecture pierre-gilles gueguen, catherine lazarus-matet, jacques-alain miller, 
+
+eve miller-rose, eric zuliani
+
+édition cécile favreau, luc garcia, bertrand lahutte
+
+▪ équipe
+▪pour l’institut psychanalytique de l’enfant daniel roy, judith miller 
+▪pour babel
+-Lacan Quotidien en argentine et sudamérique de langue espagnole graciela brodsky
+-Lacan Quotidien au brésil angelina harari
+-Lacan Quotidien en espagne miquel bassols
+
+-pour Latigo, Dalila Arpin et Raquel Cors
+-pour Caravanserail, Fouzia Liget
+-pour Abrasivo, Jorge Forbes et Jacques-Alain Miller
+
+diffusion éric zuliani
+
+▪designers viktor&william francboizel vwfcbzl@gmail.com
+▪  t  echnique     mark francboizel   &   olivier ripoll  
+▪  médiateur     patachón valdès   patachon.valdes@gmail.com
+
+mailto:patachon.valdes@gmail.com
+mailto:annedg@wanadoo.fr
+mailto:clazarusm@wanadoo.fr
+mailto:eve.navarin@gmail.com
+
+
+▪     suivre Lacan Quotidien     :  
+▪ecf-messager@yahoogroupes.fr ▫ liste d’information des actualités de l’école de la cause 
+freudienne et des acf ▫ responsable : éric zuliani
+
+▪pipolnews@europsychoanalysis.eu ▫ liste de diffusion de l’eurofédération de 
+psychanalyse 
+
+▫ responsable : gil caroz
+
+▪amp-uqbar@elistas.net ▫ liste de diffusion de l’association mondiale de psychanalyse ▫ 
+responsable : oscar ventura
+
+▪secretary@amp-nls.org ▫ liste de diffusion de la new lacanian school of psychanalysis ▫ 
+responsables : anne lysy et natalie wülfing
+
+▪EBP-Veredas@yahoogrupos.com.br ▫ uma lista sobre a psicanálise de difusão privada e 
+promovida pela AMP em sintonia com a escola brasileira de psicanálise ▫ moderator : 
+patricia badari ▫ traduction lacan quotidien au brésil : maria do carmo dias batista
+
+POUR  ACCEDER  AU  SITE  LACANQUOTIDIEN.FR    CLIQUEZ ICI  .
+
+• À l’attention des auteurs 
+
+Les propositions de textes pour une publication dans Lacan Quotidien sont à adresser 
+par mail (catherine lazarus-matet clazarusm@wanadoo.fr  )     ou directement sur le site 
+lacanquotidien.fr  en cliquant sur "proposez un article",
+Sous fichier Word ▫ Police : Calibri ▫ Taille des caractères : 12 ▫ Interligne : 1,15 ▫ 
+Paragraphe : Justifié ▫ Notes : à la fin du texte, police 10 • 
+
+•À l’attention des auteurs & éditeurs 
+
+Pour la rubrique Critique de Livres, veuillez adresser vos ouvrages, à NAVARIN 
+
+ÉDITEUR, la Rédaction de Lacan Quotidien – 1 rue Huysmans 75006 Paris.
+
+http://lacanquotidien.fr/
+mailto:clazarusm@wanadoo.fr
+http://www.lacanquotidien.fr/blog/
+mailto:EBP-Veredas@yahoogrupos.com.br
+mailto:secretary@amp-nls.org
+mailto:pipolnews@europsychoanalysis.eu
+file:///Users/boulouptime/Desktop/MacBook 3/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/LQ 383/MacBookAir 2/LQ 382/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/LQ 353/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/LQ 339/MacBookAir 2/MacBookAir 2/MacBookAir 2/LQ 323/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/LQ 288/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/MacBookAir 2/C:\Users\Kristell Jeannot\AppData\Roaming\Microsoft\LQ 116\ecf-messager@yahoogroupes.fr
+

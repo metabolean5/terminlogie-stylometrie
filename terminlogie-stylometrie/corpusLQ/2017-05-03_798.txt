@@ -1,0 +1,16 @@
+
+
+
+
+	<!--
+		@page { margin: 2cm }
+		P { margin-bottom: 0.21cm }
+		A:link { color: #0000ff; so-language: zxx }
+	-->
+	
+INSCRIPTION : ICI
+
+
+
+								 
+							

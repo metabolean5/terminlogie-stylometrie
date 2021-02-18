@@ -1,0 +1,524 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lacan Quotidien
+
+
+Samedi 24 octobre 2015 – 00 h 15 [GMT + 2]
+
+NUMERO  537
+Je n’aurais manqué un Séminaire pour rien au monde— PHILIPPE SOLLERS
+
+Nous gagnerons parce que nous n’avons pas d’autre choix — AGNÈS AFLALO
+
+www.lacanquotidien.fr
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Du NIMH à Google Life Sciences
+Big Data, symptôme de la psychiatrie
+
+La revue de presse U.S. « United Symptoms » 
+de Jean-Charles Troadec
+
+« Les symptômes dans la civilisation sont d’abord à déchiffrer aux États-Unis d’Amérique »
+Éric Laurent & Jacques-Alain Miller, L’Autre qui n’existe pas et ses comités d’éthique
+
+The New York Times du 15 septembre nous apprend que
+Dr Thomas Insel, patron du National Institute of Mental
+Health, va quitter cette institution publique pour
+rejoindre l’équipe de Google Life Sciences1. Il aura battu
+le record de longévité (13 ans) en tant que directeur au
+sein du NIMH, mais surtout il se sera fait connaître pour
+ses nombreuses attaques contre le DSM. 
+
+Par exemple, lors de la sortie du cinquième volume du Manuel statistique des troubles
+mentaux américain en 2013, Th. Insel avait annoncé qu’il n’utiliserait plus ce dernier et
+proposerait un autre manuel de psychiatrie (on ne sait pas où en est cette initiative).
+
+En février 2014, il est allé plus loin en s’en prenant directement à la recherche2. Il
+dénonçait l’attitude des chercheurs qui ne se focalisent que sur les symptômes et sur les
+traitements qui y répondent, plus personne ne cherchant à comprendre les mécanismes
+biologiques sous-jacents. La revue Nature corroborait ses propos à la même période, indiquant
+qu’actuellement seuls les effets des médicaments sont étudiés, en toute méconnaissance des
+mécanismes biologiques à l’œuvre3. Il proposait donc dans son blog de « suivre une approche
+médicale expérimentale dans laquelle chaque intervention ne servirait pas seulement à
+déterminer un potentiel traitement, mais aussi à générer des informations sur les mécanismes
+
+
+
+qui sous-tendent les troubles ». Aussi appelait-il de ses vœux des essais cliniques
+médicamenteux qui serviraient aussi à comprendre le fonctionnement du cerveau, et pas
+seulement à valider une hypothèse de départ concernant l’effcacité d’une molécule sur un
+trouble. Selon lui, même les essais dont les résultats sont négatifs devraient pouvoir servir, alors
+qu’ils ne sont actuellement jamais publiés. Il soulignait l’intérêt de continuer d’étudier un essai
+clinique, même lorsque les résultats ne valident pas l’hypothèse initiale. 
+
+Un étrange retour au « psychosocial »
+Le départ de Th. Insel s’accompagne d’une
+toute autre approche. À l’occasion de ce nouvel
+emploi, il envisage sur son blog un retour aux
+sources « psychosociales » : « La majorité de nos
+interventions les plus effcaces sont des
+traitements psychosociaux qui peuvent être
+proposés ou améliorés sur smartphones et
+tablettes »4. C’est un positionnement surprenant,
+bien loin de la pure approche biologique qu’il a
+longtemps préconisée. 
+
+Th. Insel raconte avoir été approché par Apple, IBM, Alphabet et Intel. Il avoue son
+attrait pour les conditions fnancières qui lui ont été offertes et également son intérêt pour les
+possibilités de recherche et d’exploration qui émergent, en ce moment, du Big Data. Pourquoi
+des entreprises de hautes technologies sollicitent-elles le directeur du NIMH ? Pour Th. Insel,
+la réponse est simple : ces compagnies ont perçu un gigantesque marché potentiel (3 000
+milliards de dollars). Il dit avoir, quant à lui, rapidement saisi que Big Data serait un facteur clé
+dans l’orientation des entreprises en nouvelles technologies vers la bio-médecine et la santé
+mentale.
+
+« Un des projets auxquels il a pensé, lit-on dans The New York Times, consiste à détecter
+précocement une psychose, en utilisant le langage analytique – des algorithmes prometteurs
+pour la sélection d’une signature sémantique caractéristique de la pensée désorganisée
+psychotique. […] L’idée est d’utiliser le pouvoir de l’analyse de données pour rendre les études
+comportementales plus objectives ». 
+
+Big Data : une nouvelle garantie statistique en psychiatrie
+Une étude surprenante a effectivement été menée conjointement par des chercheurs en
+psychiatrie et par IBM : plutôt que de s’attacher aux marqueurs biologiques, les chercheurs ont
+utilisé Big Data pour analyser le discours de 34 patients, des jeunes dits « à haut risque
+clinique » ; 5 ont évolué vers la psychose. Cette étude, publiée dans Nature, marque un tournant
+dans la psychiatrie américaine5. 
+
+Bien que le « discours » soit considéré comme un comportement (speech behavior), il est
+l’objet d’un nouvel élan de recherche. C’est une première. Mais l’étude s’ouvre par cette
+phrase malheureusement explicite sur les modalités de recherche : « La capacité en psychiatrie
+de diagnostiquer et de traiter les maladies mentales graves a été ralentie par l’absence de tests
+cliniques objectifs, par comparaison à ceux habituellement utilisés dans les autres champs de la
+médecine ». Là est le drame moderne de la psychiatrie américaine, qui ne cesse de vouloir
+trouver sa juste place en tant que discipline médicale. Poser le problème de cette façon ne
+
+
+
+répond cependant pas à l’absence, de plus en plus gênante, de validité scientifque en
+psychiatrie. Alors que faire ? Tout semble avoir été exploré : génétique, imagerie, marqueurs
+biologiques, en vain. Alors, pourquoi pas le discours ? Seulement, pour trouver une assise
+mathématique au discours – les possibilités du discours étant infnies –, il faut se tourner vers ce
+qui peut faire « ensembles » : le recours à Big Data offre des critères statistiques conformes à
+l’objectivité requise. 
+
+L’ambition n’est pas des moindres. Selon les auteurs de l’étude, « alors que la clinique
+des neurosciences s’est focalisée sur le cerveau dans la maladie mentale, les sciences
+computationnelles, en parallèle, ont développé de façon exponentielle des systèmes
+d’approches automatisés qui défnissent et anticipent le comportement humain ».
+
+Le protocole mis en place pour cette étude consiste en une série d’entretiens réalisés tous
+les trois mois pendant deux ans et demi. On demande aux 34 participants comment ils se
+projettent dans le futur, quels changements ils ont connus dans leur vie et comment ils y ont
+fait face. Ce qu’ils disent est rentré dans un logiciel, le Natural Language Toolkit, puis suivi par
+comparaison au cours du temps. Si l’on regarde d’un coup d’œil les données brutes publiées
+dans l’étude, elles sont, à proprement parler, incompréhensibles.
+
+Qui analyse le discours ? Bien évidemment, les ordinateurs hyper puissants, actuels et à
+venir. On ne peut que regretter que cette apparente prise en compte du discours s’éloigne
+toujours plus de la clinique.
+
+Les résultats de l’étude sont présentés dans Nature comme extrêmement probants. Le
+discours est caractérisé par des mesures de cohérence sémantique et par deux marqueurs
+syntaxiques de la complexité de la parole : la longueur maximale de la phrase et l'utilisation des
+conjonctions (par exemple, which : qui, que...). Eh bien, ces caractéristiques prédisent le
+développement ultérieur de la psychose avec 100 % de précision, puisqu’elles sont
+signifcativement corrélées avec « les symptômes avant-coureurs ». Une fois de plus, ce qu’on
+qualife de « prédiction » est une confrmation statistique a posteriori de ce qui est manifeste
+cliniquement.
+
+Th. Insel va désormais plancher sur ces analyses de données. Alphabet, maison mère de
+Google, a tapé fort en recrutant une personne de si haute importance dans le milieu de la santé
+mentale, qui fut à la tête d’une si grande institution publique. On peut s’attendre à ce que le
+
+
+
+géant d’internet propose bientôt un service de prédictions et de thérapie en ligne, analysant les
+données personnelles engendrées chaque jour par les utilisateurs via internet. 
+
+Ainsi, la compagnie Ginger.io, une start-up internet que Th. Insel a visitée cet été,
+propose déjà une application pour tablette et Smartphone : elle prédit vos changements
+d’humeur, calcule votre taux d’anxiété et offre des conseils et des soins à distance. Avec 4
+milliards de smartphones dans le monde, le marché potentiel est énorme. Leur site est à visiter
+absolument : https://ginger.io
+
+Une psychiatrie sans traitement médical
+La psychiatrie attend que les nouvelles technologies puissent apporter leur lot de découvertes,
+tout comme elles ont transformé les autres disciplines médicales par l’imagerie, le séquençage
+du génome, la médecine personnalisée (prenant en compte des milliards de facteurs), grâce aux
+puissances computationnelles – la pharmacologie a suscité la même attente, mais celle-ci n’a
+pas délivré de réelles nouveautés depuis des dizaines d’années en psychiatrie. Alors que les
+autres champs de la médecine ont énormément profté des nouvelles technologies, la
+psychiatrie peine à trouver sa place dans le discours médical contemporain. 
+
+Ainsi, la médecine personnalisée du futur qui, à partir de données génétiques,
+biométriques et cliniques du patient, s’oriente bien plus vers la prévention que vers le
+traitement. L’idée est d’informer suffsamment tôt de certains risques afn de changer les habitudes
+des patients. C’est donc une médecine qui ne veut pas attendre la maladie, ni les médicaments
+qui vont avec. Cela pourrait poser certains problèmes aux laboratoires et la psychiatrie.
+
+Thomas Insel répond que ces nouvelles technologies ne proposent pas un traitement
+médical psychiatrique : il appelle de ses vœux un « retour aux sources psychosociales ». Que
+signife cette annonce ? Le futur nous le dira. La psychiatrie va-t-elle glisser vers les sciences
+humaines ?
+
+1. Carey B., « Head of mental health institute leaving for Google Life Sciences », The New York Times, 15 septembre 2015 : 
+http://www.nytimes.com/2015/09/16/health/tom-insel-national-institute-of-mental-health-resign.html?smid=nytcore-
+iphone-share&smprod=nytcore-iphone&_r=0. Google Life Sciences, anciennement intégrée à Google X (département de 
+recherche et développement de Google), est maintenant une fliale d’Alphabet, nouvelle maison mère de Google.
+2. Cf.  http://www.nimh.nih.gov/about/director/2014/a-new-approach-to-clinical-trials.shtml & 
+http://www.nimh.nih.gov/about/director/2015/look-who-is-getting-into-mental-health-research.shtml
+3 . Reardon S., « NIH rethinks psychiatry trials » , Nature, 14 mars 2014, disponible sur internet :
+http://www.nature.com/news/nih-rethinks-psychiatry-trials-1.14877
+4. Cf. http://www.nimh.nih.gov/about/director/2015/look-who-is-getting-into-mental-health-research.shtml
+5 . Bedi G & al., « Automated analysis of free speech predicts psychosis onset in high-risk youths » Nature, 26 août 2015,
+disponible sur internet : http://www.nature.com/articles/npjschz201530
+
+****
+
+http://www.nature.com/articles/npjschz201530
+https://ginger.io/
+http://www.nature.com/news/nih-rethinks-psychiatry-trials-1.14877
+http://www.nimh.nih.gov/about/director/2015/look-who-is-getting-into-mental-health-research.shtml
+http://www.nimh.nih.gov/about/director/2014/a-new-approach-to-clinical-trials.shtml
+http://www.nytimes.com/2015/09/16/health/tom-insel-national-institute-of-mental-health-resign.html?smid=nytcore-iphone-share&smprod=nytcore-iphone&_r=0
+http://www.nytimes.com/2015/09/16/health/tom-insel-national-institute-of-mental-health-resign.html?smid=nytcore-iphone-share&smprod=nytcore-iphone&_r=0
+
+
+Jules Verne à La Mecque
+
+par Ruth Grosrichard
+
+La Mecque, « mère des cités » en islam, a connu un septembre noir : deux catastrophes
+meurtrières coup sur coup. L’une, le 11 septembre, due à l’effondrement d’une grue sur la
+grande mosquée s’est soldée par la mort de 109 personnes et plus de 400 blessés ; la suivante,
+survenue le 24 septembre à la suite d’une bousculade durant le hadj (grand pèlerinage), a fait
+au moins 769 morts et 934 blessés.
+
+Occasion pour l’Iran chiite de dénoncer, par la voix du guide suprême Ali Khamenei, la
+mauvaise gestion des lieux saints et d’exiger de l’Arabie saoudite sunnite qu’elle présente ses
+excuses ; d’autres s’interrogent sur le choix fait par la dynastie saoudienne régnante d’un
+modernisme et d’un gigantisme débridés. Sur la Toile en arabe, chacun y va de sa compassion,
+de ses condoléances, de ses réserves voire de ses critiques, sur le mode « jusqu’où ira-t-on ? »
+
+Dans un billet, daté du 25 septembre 2015, un chroniqueur du journal saoudien de
+langue arabe Al-Ryadh, Issam Amane Allah Boukhari, prolonge cette question en se
+demandant : « Comment sera le hadj en l’an 1500 de l’hégire ? », soit en 2080. Tout en restant
+neutre et sans esprit de dérision affché – peut-il en être autrement dans un royaume où l’esprit
+critique et la gaudriole ne sont pas de mise ? – l’auteur, ingénieur de formation, offre une
+vision prospective de ce que pourrait être le pèlerinage à La Mecque dans 65 ans (« avec la
+permission d’Allah »), compte tenu des progrès technologiques prévisibles. En matière de
+science-fction, ses anticipations, qui n’ont rien à envier à celles d’un Jules Verne, lui valent
+félicitations et bénédictions de la part des internautes.
+
+Il expose très sérieusement quatre solutions susceptibles d’épargner du temps, de
+l’argent, des encombrements et de tragiques bousculades.
+
+1. Voyager par Hyperloop
+Première solution : un Hyperloop qui circulerait jusqu’à 1 200 km/h et dépasserait de loin
+l’actuel projet de train à grande vitesse entre l’aéroport international de Djeddah et
+La Mecque. Ainsi les pèlerins, qui aujourd’hui débarquent en masse dans cet aéroport,
+pourraient arriver par d’autres villes et être transportés jusqu’à la Ville sainte en un temps
+
+
+
+record. Hyperloop, conçu par Elon Musk, PDG de SpaceX et Tesla Motors en Californie, est
+un long tube surélevé, à l’intérieur duquel des « capsules » contenant chacune une vingtaine de
+passagers glissent sur des coussins d’air comprimé, propulsées par un générateur à l’énergie
+solaire. Un trajet test est à l’étude entre San Francisco et Los Angeles. Il est loin le temps où
+l’illustre voyageur marocain du XIVe siècle, Ibn Battouta, mit près de 18 mois pour parcourir
+à cheval les 4 800 km entre sa ville de Tanger et La Mecque.
+
+2. Des lentilles de contact connectées et intelligentes
+Deuxième solution : des lentilles de contact intelligentes permettant aux pèlerins de voir et
+d’entendre l’imam faire son prêche sur le mont Arafat (lieu où le prophète Mahomet aurait fait
+son sermon d’adieu aux musulmans) tout en bénéfciant de la traduction simultanée pour les
+non-arabophones. De plus, ces astucieuses petites lentilles fourniraient aux services de secours
+des informations précieuses sur l’identité du pèlerin malade, son groupe sanguin et même ses
+antécédents médicaux. Une invention inspirée des idées de Michio Kaku, physicien et
+futurologue américain d’origine japonaise, professeur au City College de New York.
+
+3. Des voitures volantes sans pilote
+Troisième solution : des voitures volantes sans pilote, permettant d’effectuer les sept tours
+rituels autour de la Kaaba (bâtiment cubique recouvert de soie noire et abritant la fameuse
+pierre noire). Selon l’auteur, la frme Toyota aurait, en 2014, fnancé un programme de
+recherche sur ce type de véhicule au Massachusetts Institute of Technology (MIT) et à
+l’Université de Stanford aux Etats-Unis.
+
+4. Des « pierres intelligentes » pour lapider Satan
+Quatrième solution : d e s « pierres intelligentes »
+connectées au cerveau du pèlerin qui s’en servirait à la
+façon de « mini-drones » lors de la cérémonie de la
+lapidation de Satan (une des étapes du hadj). Cette
+innovation serait plus particulièrement destinée aux
+invalides et aux paralytiques. Le lecteur curieux d’en
+savoir plus est invité à se renseigner sur le projet
+« Automating a Brain-Machine Interface System ».
+
+« Certains vont se moquer de ce que j’évoque ici,
+reconnaît Issam Amane Allah Boukhari. Mais, observe-t-
+il, si nous avions interrogé les musulmans des premiers
+siècles de l’islam sur ce que serait le hadj en 2015,
+personne n’aurait pu imaginer que les pèlerins
+d’aujourd’hui voyagent en avion et en voiture, que nous
+utiliserions des haut-parleurs, des éclairages, de la
+climatisation… ». Après tout, ajoute-t-il, nous voyons
+déjà des fdèles suivre les prières nocturnes de Ramadan
+sur leur iPad et d’autres, lors du petit pèlerinage
+(Oumra), effectuer les sept tours autour de la Kaaba en
+scooter intelligent. 
+
+Paru le 1er octobre 2015, dans Le Monde Afrique
+
+****
+
+http://www.lemonde.fr/afrique/article/2015/10/01/jules-verne-a-la-mecque-en-2080_4779117_3212.html
+
+
+Un Charlie d'exception
+
+par Luc Garcia
+
+Les attentats parisiens de janvier dernier se sont perdus dans les remous de
+l'opinion. On se rappelle comment la grève des routiers et l'épidémie de
+grippe qui eurent lieu mi-janvier amortirent les évènements. Les
+conséquences de cette époque-là seront à lire dans les suites dont plusieurs
+ne sont pas épuisées et d'autres n'attendent qu'à mûrir. Probablement, en
+ce moment même, des conjugaisons de ces effets se déploient en Syrie, en
+Turquie, en Afghanistan. Certains parlent de troisième guerre mondiale ;
+d'autres établissent un parallèle entre le niveau de confit qui n'a plus été
+aussi bas depuis 1913, comme à la veille d'un été lorsque les jours
+allongent. Une violence muette et désordonnée triomphe. Et en France,
+Emmanuel Todd a posé la question : « qui est Charlie ? », titre d’un livre*
+qui ft du bruit. 
+
+La question est ambitieuse, puisqu'elle engage la recherche d'une signifcation à
+raccrocher à un signifant seul, isolé, qu'il s'agirait d'interpréter pour l'animer, et fait entendre
+qu'il fut incarné dans le malentendu. 
+
+E. Todd, reconnaissons-lui cela, ce n'est pas si fréquent, a l'idée du malentendu. Dans
+les semaines qui ont suivi la sortie du livre, il n'a pas ménagé ses efforts pour l'accentuer avec
+une énergie considérable, passant d'un plateau de télévision à un studio de radio, presque
+toujours agacé. Comment les critiques du livre ont-ils fonctionné ? Le plus communément du
+monde : sans lire le livre. Mais l'essentiel n'est pas là.
+
+Les critiques contre le livre se sont souvent fxées sur un syllogisme de synthèse, qui nous
+en apprend plus sur l'air du temps que sur le contenu du livre comme tel, et qui s'écrit : Todd
+considère que les manifestations du 11 janvier étaient orientées contre les plus faibles, que les
+plus faibles pouvant être musulmans, les musulmans sont donc légitimés par E. Todd pour
+commettre des attentats ; que les attentats selon Todd, c'est la révolte légitimée des plus faibles.
+Conséquence : E. Todd est contre la démocratie, la liberté d'expression et la laïcité.
+Conséquence encore : E. Todd soutient le terrorisme dont la colère justife les moyens.
+
+En vérité, ce syllogisme, auquel l'auteur a certes parfois prêté consistance dans certaines
+émissions où il s'agissait de résumer sa thèse en une minute trente, exercice pour lequel il n'est
+manifestement pas le plus doué, doit être mis en rapport, en conversation, avec cette autre
+construction, son pendant, que l'on entendit au moment des attentats : les musulmans sont
+victimes également des attentats, puisque ceux-ci ont été commis par des musulmans alors que
+tous les musulmans ne sont pas terroristes. 
+
+Le syllogisme hypothétiquement Toddien ou son pendant sont absents du livre. Ainsi,
+les démineurs de malentendus sont condamnés à en susciter d'autres. 
+
+
+
+E. Todd ne s'intéresse pas à la fabrique des attentats,
+il ne justife pas la cause, pour cibler ce qu'il appelle
+l'« épisode hystérique » qui leur a succédé. Cette
+soudaine référence à la psychopathologie n'est pas du
+meilleur choix (1) ; peut-être renvoie-t-elle à ces
+accolades visibles dans tous les partis politiques, en
+France et dans d’autre pays ? Passons. Pourquoi, en
+revanche, le long passage, probablement le plus
+convaincant du livre, où l'auteur s'est attelé à
+démonter la catégorie de « musulman » comme un
+
+tout consistant pour rendre cette totalité inopérante dans le paysage français, est-elle ignorée
+des critiques ? Pourquoi également cette idée, régulièrement martelée au cours du livre, selon
+laquelle l'activation de la catégorie de musulman sert indirectement l'antisémitisme, n'est-elle
+pas plus souvent mise en relief par lesdites critiques ? Pourquoi encore, la structure ségrégative
+du discours présidentiel, pointée comme hésitante n'a-t-elle pas été  étudiée ? (Todd est en
+l'espèce beaucoup plus hard et n'en reste pas à dire qu'elle est « hésitante ». Elle résulterait de
+son éducation dans un catholicisme marial castrateur). C'est à croire qu'une critique de l'Euro
+et du Parti socialiste ne peut être que zemmourienne ou mélenchonienne en France, ce dans
+quoi Todd ne verse pas.
+
+La thèse d’E. Todd consiste à créer la catégorie du « catholique zombie » pour en faire
+l'origine de celui qu'il nomme Charlie de façon familière, et à qui il prête, somme toute, un
+corps, chancelant ranci de haine et de mauvaise foi. Or, l'auteur cogne fort lorsqu'il pose la
+question en ces termes : « pourquoi les régions qui soutiennent aujourd'hui le plus
+vigoureusement le projet européen et la laïcité sont-elles celles qui, lorsqu'elles étaient
+catholiques, avaient fourni à l'antidreyfusisme ses plus gros bataillons et au régime de Vichy ses
+meilleurs soutiens ? » (2). Qu'il soit permis de douter que la question pour lui soit uniquement
+une affaire territoriale, au sens du terroir.  Le fait même de poser ainsi la question produit un
+malaise : il y a toujours en effet des moments dans l'histoire de la France où quelque chose
+sonne faux. Qu'il soit aussi permis par l'auteur d'accepter que parfois des alliances se font dans
+des sens que l'intuition réprouve, que l'on ne choisit pas toujours ses alliés au combat, que les
+combats, pourtant, méritent d'être menés. Comment croire à l'inverse que le moment de la
+Résistance puisse fournir aujourd’hui encore un modèle fgé à partir duquel la période actuelle
+pourrait se déduire et s’interpréter ?
+
+Peut-être la création du corps christique de Charlie est-elle un monstre statistique dont
+Todd ne peut se passer. Cette méthode, pourtant, n'a rien de neuf pour ceux qui suivent ses
+travaux et n'avait jusqu'alors pas suscité beaucoup de critiques, bien qu’elle conduise parfois
+aux limites de l'incompréhensible : un usage abondant des cartes subtilement colorées pour
+susciter l’adhésion du lecteur, une connaissance très approfondie des départements français, où
+l'auteur distingue la partie orientale, occidentale ou nord occidentale d'un même département,
+servent souvent à masquer l’argumentation. Toutefois, E. Todd ne pointe-t-il pas par ces
+artifces que Charlie est d'abord une illusion qu'il s'applique à percer, alors même que la sphère
+médiatique n'a pas manqué le plus souvent de désigner par ce signifant un tout unifé ? Certes,
+
+
+
+l'auteur parvient à réunir les pro-Charlie et les sceptico-Charlie contre lui. On reconnaîtra
+alors à son livre le mérite d’avoir fait surgir dans l’opinion un Charlie fragmenté. Un Charlie
+moins glamour que celui de la manifestation du 11 janvier. Un Charlie qu'il extrait de la
+débilité dans laquelle l'opinion l'a plongé. Un Charlie qui nous rappelle, comme Rachid
+Benzine le ft lors de PIPOL VII en juillet dernier, combien la laïcité est désormais facilement
+admise en principe, mais qu'elle ne deviendra effective que si elle est travaillée et pensée (3). 
+
+Reste un paradoxe. Todd, c'est très clair, n'aime pas la psychanalyse à laquelle il prête
+une obstination constante à défendre des structures familiales rigides,  alors que lui tient à les
+maintenir mouvantes. Soit. Mais sa lecture démographique fabrique un inconscient
+départemental, sous-préfectoral, communal. Donc, la portée du livre devient dérangeante. On
+reprendra alors cette phrase de Lacan, désarmante de simplicité, prononcée lors du
+Séminaire II : « Pour la pensée causaliste, la fnalité n'existe pas, mais le fait qu'on doive y
+insister prouve assez que la notion est diffcile à manier »(4). Fut-ce en créant Charlie à sa
+manière. 
+
+* Todd E., Qui est Charlie ? Sociologie d'une crise religieuse, Paris, Seuil, 2015.
+(1) : Jacques-Alain Miller écrira deux tweets consécutifs à ce propos (@jamplus), le 11 mai dernier : « #TODD La
+première phrase de son livre est pour assimiler la manif Charlie à une crise d'hystérie. Mais que sait-il des crises
+d'hystérie ? / Une révolution est-elle une crise d'hystérie ? Toute crise est-elle une crise d'hystérie ? Todd fait-il une
+crise d' ... »
+(2) : Todd E., Qui est Charlie ? Sociologie d'une crise religieuse, Paris, Seuil, 2015, p. 84.
+(3) : référence reprise et commentée par Eric Laurent, dans Lacan Quotidien   n° 528.
+(4) : Lacan J., Le Séminaire, livre II, Le moi dans la théorie de Freud et dans la technique de la psychanalyse, texte établi par
+Jacques-Alain Miller, Paris, Seuil, 1978, p. 41. 
+
+*****
+
+http://www.lacanquotidien.fr/blog/wp-content/uploads/2015/07/LQ-528.pdf
+https://twitter.com/jamplus
+
+
+Lacan Quotidien
+publié par navarin éditeur
+
+INFORME ET REFLÈTE 7 JOURS SUR 7 L’OPINION ÉCLAIRÉE              
+
+▪ comité de direction
+directeur de la rédaction pierre-gilles guéguen pggueguen@orange.fr
+
+directrice de la publication eve miller-rose eve.navarin@gmail.com
+
+conseiller jacques-alain miller
+
+▪ comité de lecture 
+anne-charlotte gauthier, pierre-gilles guéguen, catherine lazarus-matet, jacques-alain miller,  
+eve miller-rose, eric zuliani
+
+▪ équipe
+édition cécile favreau, luc garcia
+
+diffusion éric zuliani
+
+designers viktor&william francboizel vwfcbzl@gmail.com
+
+technique     mark francboizel   &   olivier ripoll
+
+médiateur     patachón valdès patachon.valdes@gmail.com
+
+▪   suivre Lacan Quotidien     :
+Vous pouvez vous inscrire à la liste de diffusion de Lacan Quotidien sur le site 
+lacanquotidien.fr
+
+et suivre sur Twitter @lacanquotidien
+
+▪ecf-messager@yahoogroupes.fr ▫ liste d’information des actualités de l’école de la cause 
+freudienne et des acf ▫ responsable : éric zuliani
+
+▪pipolnews@europsychoanalysis.eu ▫ liste de diffusion de l’eurofédération de psychanalyse 
+responsable : marie-claude sureau
+
+▪amp-uqbar@elistas.net ▫ liste de diffusion de l’association mondiale de psychanalyse ▫ 
+responsable : marta davidovich
+
+▪secretary@amp-nls.org ▫ liste de diffusion de la new lacanian school of psychanalysis ▫ 
+responsables : Florencia Shanahan et Anne Béraud
+
+▪EBP-Veredas@yahoogrupos.com.br ▫ uma lista sobre a psicanálise de difusão privada e 
+promovida pela AMP em sintonia com a escola brasileira de psicanálise ▫ moderator : patricia
+badari ▫ traduction lacan quotidien au brésil : maria do carmo dias batista
+
+mailto:EBP-Veredas@yahoogrupos.com.br
+mailto:secretary@amp-nls.org
+mailto:pipolnews@europsychoanalysis.eu
+https://twitter.com/LacanQuotidien
+http://www.lacanquotidien.fr/blog/inscription500/
+mailto:patachon.valdes@gmail.com
+mailto:vwfcbzl@gmail.com
+mailto:eve.navarin@gmail.com
+mailto:pggueguen@orange.fr
+
+
+POUR  ACCEDER  AU  SITE  LACANQUOTIDIEN.FR     CLIQUEZ ICI.
+
+• À l’attention des auteurs 
+
+Les propositions de textes pour une publication dans Lacan Quotidien sont à adresser par 
+mail (pierre-gilles guéguen pggueguen@orange.fr) ou directement sur le site 
+lacanquotidien.fr  en cliquant sur "proposez un article",
+Sous fchier Word ▫ Police : Calibri ▫ Taille des caractères : 12 ▫ Interligne : 1,15 ▫ 
+Paragraphe : Justifé ▫ Notes : à la fn du texte, police 10 • 
+
+•À l’attention des auteurs & éditeurs 
+
+Pour la rubrique Critique de Livres, veuillez adresser vos ouvrages, à NAVARIN 
+
+ÉDITEUR, la Rédaction de Lacan Quotidien – 1 rue Huysmans 75006 Paris.
+
+http://lacanquotidien.fr/
+mailto:pggueguen@orange.fr
+http://www.lacanquotidien.fr/blog/
+

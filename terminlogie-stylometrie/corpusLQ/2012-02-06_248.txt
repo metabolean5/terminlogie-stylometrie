@@ -1,0 +1,49 @@
+
+
+
+Cyrille Béraud
+Président de Savoir-faire Linux inc.,
+ Président de la Fédération Québécoise des Communautés et des Industries du Libre.
+Le titre que j’ai choisi ce soir évoque bien sûr le célèbre ouvrage de Sigmund Freud, Malaise dans la civilisation. Ce choix n’est pas un hasard, de même que ce n’est pas un hasard si un jour, ici même1, j’ai présenté le modèle économique du logiciel libre comme se soutenant du nœud borroméen3. Ce nœud borroméen, je l’avais emprunté à un autre psychanalyste, Jacques Lacan. Et si j’évoque le discours de la psychanalyse pour introduire mon propos, c’est qu’il a repéré en premier que l’avancée du discours de la science inaugurait de profonds bouleversements dans nos sociétés. À la société structurée autour de la fonction de l’exception paternelle, représentée par la cellule familiale classique ordonnée par le père, puis le maître d’école, le professeur d’Université, le leader politique et bien d’autres figures, le discours de la science impose un ordre nouveau, fait d’experts, de managements et de managers, d’études statistiques et d’évaluations. Le citoyen et le collectif se retrouvent ainsi, peu à peu, démunis, déboussolés, désorientés devant l’avènement de ce discours qui réduit chaque jour un peu plus notre espace de liberté, et qui nous enferme dans une solitude que la saturation par de nouveaux objets de consommation ne fait qu’exacerber. Le malaise se repère dans tous les champs. La distribution massive et en constante augmentation du Ritalin dans nos écoles est un très bon exemple de cette substitution : le garant symbolique de l’institution n’est plus le maître d’école, mais la molécule chimique. L’éclatement de la cellule familiale classique est un autre bon exemple. Cette évolution mine maintenant l’ordre politique et les institutions publiques et même la souveraineté des états. Ainsi, j’entendais Line Beauchamp, ministre de l’éducation du Québec,  déclarer à la télévision : « Nous ferons ce que les experts nous diront. »
+L’éducation, l’économie, la justice, la santé ne sont plus des questions politiques, ce sont des questions d’experts, des questions d’études et d’évaluations, des questions de management.
+Le citoyen, représenté par les institutions démocratiques, n’a plus grand chose à dire. Alors à quoi bon aller voter, à quoi bon s’impliquer, à quoi bon même avoir des institutions ? Où se trouve notre espace collectif et même individuel ?
+L’éthique… républicaine, si je puis dire, ne fait plus le poids face au discours purement comptable de l’expert et du gestionnaire. Les valeurs s’inclinent devant l’efficace qui rend tous les arrangements possibles.
+Les politiques et l’État, peu à peu, sans même s’en rendre compte, se sont mis au service de ce nouveau maître. La carrière politique se résume à une question de marketing.
+Cette situation, même si je fais allusion à la situation québécoise, est générale et touche la plupart des pays, particulièrement les pays occidentaux. Il s’agit d’une crise mondiale que tous les pays, chacun avec leurs particularités, traversent. De nombreux intellectuels y réfléchissent depuis longtemps ; et deux articles récents m’ont paru éclairants.
+Le premier, paru dans Le Monde du 23 novembre 2011, est un entretien avec Bertrand Badie, professeur à Sciences Po, intitulé : « L’histoire moderne de l’homme politique est finie 2». Bertrand Badie, interrogé sur la crise financière européenne, voit bien que derrière ces problématiques comptables se cachent des forces et des questions beaucoup plus profondes. Il identifie assez finement les enjeux et les graves défis pour nos sociétés liés aux avancées technologiques et scientifiques.
+Le deuxième : « L’intellectuel public, l’éthique républicaine et la fracture de l’ethos de la science 4» d’Ivan Domingues, professeur de philosophie au Brésil, nous propose une mise en perspective historique passionnante. Il isole parfaitement le rôle du discours de la science dans les ruptures et les crises des sociétés démocratiques contemporaines.
+Tous deux esquissent, chacun de leur place, des pistes de solutions. Cependant, ils soulignent que la réappropriation collective, et donc politique, des questions scientifiques et technologiques est nécessaire pour envisager ce monde qui sera post-moderne, mais qui ne doit pas devenir post-démocratique.
+C’est précisément à cette place qu’émerge la question du logiciel libre en tant que question politique.
+Je vais tenter de préciser cette place et son importance.
+Pourquoi, dans le contexte que je viens d’évoquer, la question du logiciel libre est-elle si importante ? Pourquoi, de toutes les questions scientifiques et technologiques dont nous nous devons de nous réapproprier collectivement les enjeux, le logiciel libre tient-il une place particulière ?
+Le premier élément de réponse nous a été donné par Lawrence Lessig dans son célèbre et génial texte intitulé « Code is law 5», « le code est la loi 6» en français.
+Son argument déterminant est qu’une part toujours croissante de nos interactions sociales, nos échanges économiques, culturelles, nos créations artistiques, est maintenant régulée par des logiciels. Un vaste champ de notre activité est donc dépendant de ces algorithmes qui façonnent, en délimitant le champ des possibles, l’espace de nos libertés. Le code agit donc dans le cyberespace comme la loi. La question de savoir qui maîtrise le code est centrale pour l’avenir de nos sociétés démocratiques.
+Je voudrais souligner que les nouvelles technologies de l’information sont à l’origine de l’extraordinaire accélération des progrès dans tous les domaines de la science : physique, chimie, astrophysique, biologie, médical, météorologie, etc. C’est aussi le cas dans les sciences humaines, sociales et de la nature, où la capacité de traiter en masse les informations ont permis des avancées spectaculaires : économie, géographie, éducation, psychologie, sociologie.
+L’avènement du code est donc au cœur de, à l’origine de, donne sa force à, tous ces mouvements tectoniques que nos sociétés vivent.
+C’est ce qui donne, me semble-t-il, à la question de l’appropriation collective de l’informatique libre une place à part dans ce nouveau combat au sein des sociétés post-modernes. Je crois même que ce combat est essentiel et déterminant pour l’avenir de nos sociétés démocratiques.
+Cela passera-t-il par l’État ?
+Pour revenir au texte de Lessig, vous noterez l’ambiguïté de la réponse de l’auteur à cette question : il appelle à une ré-implication de l’État, tout en constatant la faillite contemporaine des démocraties.
+Cette contradiction interne se révèle parfaitement, et de façon exemplaire, avec l’adoption de la loi Hadopi en France.
+Le logiciel libre porte-t-il en soi les valeurs, les idéaux qui en fera une réponse juste et suffisante à ce que nous recherchons ?
+Nombres des militants de la cause du libre soulignent les valeurs intrinsèques du logiciel libre : liberté, partage, collaboration, transparence et méritocratie seraient des valeurs suffisantes, fortes et significatives pour balayer toute interrogation.
+Cette vision peut sembler naïve. En tant qu’entrepreneur, je constate que si le logiciel libre connaît un essor fulgurant dans les entreprises, c’est qu’avant tout, il est pour les organisations d’une efficacité redoutable.
+Je dirais même que le logiciel libre est sans doute ce que le capitalisme moderne a inventé de plus efficace.
+C’est d’abord cela qui explique son succès, et bien plus que ses valeurs. Valeurs que je ne conteste pas, mais qui ont des effets limités tout de même.
+L’hégémonie fulgurante et sans précédent d’une compagnie comme Google est un indicateur qu’il ne faut pas négliger. Celle de Facebook et d’autres réseaux sont là aussi pour nous interroger sur la nature émancipatrice du logiciel libre en soi.
+Il porte en lui-même un ordre ségrégatif, entre ceux qui maîtrisent la technologie et ceux qui en sont exclus, encore plus brutal qu’auparavant.
+Dans l’économie du libre, la dépendance entre le fournisseur et son client, certes, change de nature, mais elle reste peut-être plus forte et plus pernicieuse encore.
+Enfin, je soulignerai que la méritocratie, valeur centrale du libre, se résume à la loi du plus fort ou du plus malin et ne saurait constituer une valeur structurante dans la société post-moderne qui a davantage besoin, me semble-t-il, de réinventer les liens de solidarité.
+Pour conclure, le logiciel libre apparaît comme un véritable et nouvel espace de liberté. Soit il renforcera la dérive actuelle scientiste et managériale au détriment de la démocratie. Soit il pourra être l’outil puissant de réinvention de celle-ci. Cela ne pourra se faire en limitant le logiciel libre à sa dimension technologique ou d’efficace économique ; mais en associant, en rassemblant les divers groupes sociaux qui doivent en devenir les acteurs : économie sociale, utilisateurs, développeurs solitaires ou communautés de développeurs, entreprises productrices de services ou entreprises utilisatrices, etc.
+C’est en maintenant la question du logiciel libre dans l’espace public que nous pourrons faire de cette formidable hypothèse que Richard Stallman a proposée au monde, un levier de notre émancipation et un outil pour bâtir un monde plus juste, plus libre et plus prospère et relever les défis prodigieux de notre époque.
+————————————————————————————
+1 Intervention à l’Université Laval à Québec le 6 décembre 2011, dans le cadre du cours du Professeur Daniel Pascot, « Logiciel Libre et Sociétés ».
+2 http://www.lemonde.fr/idees/article/2011/11/23/l-histoire-moderne-de-l-homme-politique-est-finie_1608187_3232.html
+3 http://blogs.savoirfairelinux.net/cyrilleberaud/2012/01/economie-du-logiciel-libre-et.html
+4 http://www.raison-publique.fr/article444.html
+5 http://harvardmagazine.com/2000/01/code-is-law.html
+6 http://www.framablog.org/index.php/post/2010/05/22/code-is-law-lessig
+
+
+
+								Tagged with: logiciel libre 
+							

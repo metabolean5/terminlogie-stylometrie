@@ -1,0 +1,663 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Mardi 14 mai 9h00   [GMT + 1]  
+
+NUMERO 319 
+Je n’aurais manqué un Séminaire pour rien au monde— PHILIPPE SOLLERS 
+
+Nous gagnerons parce que nous n’avons pas d’autre choix — AGNÈS AFLALO 
+
+www.lacanquotidien.fr 
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+
+ 
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+
+ 
+
+LE SAC DE NŒUDS 
+
+ 
+
+Fin d’une époque 
+ 
+
+ÉRIC LAURENT 
+ 
+
+ 
+« Avant, je regardais, moi aussi,  
+
+tout original comme un malade, un être anormal,  
+mais, maintenant, je suis d’avis que l’état normal de l’homme  
+
+est d’être un original. Tu es complètement normal. » 
+Tchekhov, Oncle Vania, Acte IV 
+
+ 
+Le 29 avril, sur son blog hébergé par l’institution qu’il dirige, 
+
+en tête de son site, Thomas Insel, le directeur du National 
+Institute of Mental Health, a fait fort1. Sous un titre au gérondif 
+
+lourd de conséquences à venir et de processus en germe, il 
+saluait à sa façon la publication, dans deux semaines, du DSM 
+nouveau, plus attendu que le Beaujolais, puisque bien plus rare —
+ 12 ans d’attente. « Transforming diagnosis », le titre en question, est 
+ambigu. Qu’est ce qui se transforme exactement ? De son point de vue, globalement, les choses 
+vont peu changer entre le DSM-IV-R et le DSM-5. Le dictionnaire organisant le champ de la 
+
+
+
+psychopathologie conservera sa force : la « fiabilité » inter-juges, et sa faiblesse : son absence de 
+
+« validité » scientifique. Le DSM reste fondé sur un « consensus sur des regroupements de 
+symptômes cliniques », et non sur une mesure « objective » de quoi que ce soit. Or, le devoir du 
+
+NIMH est de soutenir la recherche de ce Graal : un réel mesurable pour les maladies mentales. 
+D’où le rappel que son institution a lancé depuis près de deux ans un projet très différent du 
+
+DSM-5 pour transformer véritablement les diagnostics. Il s’agit de rassembler, dans un projet 
+intitulé Research Domain Criteria (RDoC), tout ce qui a été dégagé par la recherche de signes 
+objectifs dans le champ de la psychopathologie : neuroimagerie, marqueurs génétiques probables, 
+altération des fonctions cognitives et de leurs circuits objectivables, dans les trois domaines 
+
+essentiels : cognition, émotion et conduites. Le RDoC a pour objectif d’établir la cartographie 
+(mapping) de l’ensemble de ces aspects, à travers le continuum du champ, en passant outre les 
+différentes étiquettes et sous-groupes du DSM se divisant sans fin. Et c’est cela qui doit être 
+
+affirmé comme la nouvelle 
+
+boussole fondamentale. D’où la 
+conclusion terrible pour le DSM et 
+l’Association Américaine de 
+Psychiatrie (APA) qui le porte à 
+
+bout de bras : « C’est pourquoi le 
+NIMH réorientera sa recherche 
+
+loin des catégories du DSM. 
+Regardant vers l’avenir, nous 
+
+soutiendrons des projets de 
+recherche qui s’affranchissent des 
+
+limites des catégories actuelles ». 
+La planète blogs s’est 
+
+immédiatement déchainée aux USA. Les uns parlent du NIMH « abandonnant » le DSM. 
+D’autres, comme le blog Science 2.0 parlent de « coup mortel » au DSM-5. Th. Insel a brutalement 
+fait du DSM une chose du passé. Le blog psychcentral.com2 veut prendre le contrepied de ce courant 
+d’opinion et, pour cela, a demandé à Bruce Cuthbert, Ph. D., le directeur de la division adulte de 
+
+recherche du projet RDoC d’en dire un peu plus. Celui-ci enfonce le clou. Une période s’achève. 
+Cependant, « tout changement dans les priorités de recherche demande une période de 
+
+transition »3, explique-t-il. Comme la plupart des chercheurs cliniciens ont grandi avec le DSM, il 
+faudra du temps pour savoir passer d’un usage des catégories DSM à celles du RDoC, aussi bien 
+
+pour solliciter des crédits pour recherches que pour en tirer des orientations de traitements. Pour 
+lui, c’est clair. Le DSM c’est le passé, le RDoC c’est l’avenir. Il faudra bien que les cliniciens 
+passent d’une façon de penser à une autre. On le voit, l’accord est vaste dans les rangs des 
+
+
+
+membres du NIMH. Et l’effort de faire changer les cliniciens de système de pensée ne date pas 
+
+d’hier. 
+Steven E. Hyman, MD, actuellement Directeur du Stanley Center for Psychiatric Research au 
+
+Broad Institute of MIT and Harvard, et ancien directeur du NIMH de 1996 à 2001, est un 
+infatigable avocat de la nécessité d’ouvrir le DSM et la Classification internationale des maladies 
+
+mentales (CIM ou en anglais ICD) aux apports récents de l’imagerie, de la génétique et des 
+neurosciences. Il l’a manifesté comme Provost de Harvard entre 2001 et 2011 et maintenant au 
+
+Stanley Center de façon plus concrète. Depuis S.E. Hyman, tous les directeurs du NIHM ont 
+maintenu leur orientation pour faire changer le principe d’organisation des classifications et y 
+
+introduire plus de science et moins de considération pour les symptômes. La question est donc 
+de savoir pourquoi ils ont attendu si longtemps pour rompre avec le système DSM et trancher 
+
+aussi clairement.  
+Mon hypothèse est que le processus de 
+
+fabrication du DSM nouveau au cours des 
+12 dernières années, celles où Hyman avait 
+
+précisément quitté le NIMH pour 
+influencer le dit processus de l’extérieur, a 
+
+révélé que les contradictions au sein de la 
+psychiatrie étaient insolubles du point de 
+
+vue des fondamentalistes. L’opposition 
+ouverte des anciens responsables des DSM 
+III-R (Robert Spitzer) et IV (Allen Frances) aux orientations choisies par la Task Force du DSM-
+5 a conduit à des lettres ouvertes depuis 2009 et à des plaintes devant les instances de l’APA. La 
+volonté d’extension des catégories à des seuils infra cliniques, à des populations stigmatisées 
+comme « à risque », dans une médicalisation toujours plus vaste de l’existence (soulignée par 
+
+Roland Gori), a alerté massivement la profession. Les conflits d’intérêts toujours plus grands 
+entre universitaires et chercheurs financés par les laboratoires ont atteint la crédibilité scientifique 
+
+des leaders d’opinion du milieu psychiatrique. La grande déception quant aux bénéfices réels des 
+médicaments de dernière génération, pourtant  présentés comme solutions miracles, a contribué à 
+
+mettre en cause l’étalon de mesure des essais cliniques randomisés. Bref, le système dans son 
+entier est à bout de souffle. Tout se passe comme si Th. 
+
+Insel avait attendu le moment où la machinerie DSM était 
+lancée sans retour possible pour faire son annonce. Le 
+
+dernier congrès de l’APA en mars 2012 avait été le lieu de 
+dernières négociations : abandon des catégories les plus 
+
+critiquées, réduction des écarts de calculs divergents sur les 
+conséquences des nouveautés pour les populations, en 
+
+http://en.wikipedia.org/wiki/Medical_Doctorate
+
+
+échange d’une autorisation d’imprimer donnée par les plus hautes instances de l‘association. Les 
+
+négociations ont abouti. En décembre les dernières commissions en avaient tiré toutes les 
+conséquences et l’impression commençait en janvier. Le volume, prévu au prix prohibitif de 200 
+
+$ en hardcover et 140 $ en paperback, était prêt à être distribué 
+partout dans un effort logistique majeur. C’est là qu’Insel choisit 
+
+de déclarer que tout est consommé entre le NIMH et l’APA. 
+Plus rien ne peut être changé. 
+
+Le chroniqueur psychiatrique du Scientific American, John 
+Horgan, ajoute une hypothèse, terrible elle aussi. L’annonce de 
+
+Th. Insel suit le dévoilement du grand projet de l’administration 
+Obama sur la Brain Initiative, annonçant l’ouverture d’une ligne 
+de crédit de 100 millions de $ consacrés à la coordination de 
+projets de recherche en neurosciences les plus divers. « Je 
+
+soupçonne qu’il espère s’allier avec les neurosciences qui 
+semblent maintenant avoir davantage de crédit politique que la 
+
+psychiatrie », écrit-il. Bref, c’est la fin du pouvoir de l’APA. 
+Allen Frances a mis du temps à réagir à l’annonce de Th. Insel. Sur son blog, le 10 
+
+mai seulement, il renvoie dos à dos le NIMH et le DSM : « Personne ne gagne, le patient perd »4. 
+Il considère que Th. Insel a sans doute planté le clou dans le cercueil du DSM, mais que le projet 
+
+de remplacement, le RDoC, n’en est qu’aux balbutiements. Ce sont donc les patients  les plus 
+intéressés à avoir des diagnostics sûrs  qui vont payer l’addition du moment d’incertitude que l’on 
+
+traverse. A. Frances continue à rappeler sa position. Le système DSM est bien conçu, ce sont les 
+irresponsables du DSM 5 qui l’ont gâché. « Le diagnostic psychiatrique était un embarras 
+
+professionnel avant que le DSM-III soit publié en 1980. Avant cela, il était très lourdement 
+influencé par la psychanalyse, les psychiatres étaient rarement d’accord sur les diagnostics, et de 
+
+toute façon personne ne s’en souciait vraiment. Le DSM-III a soulevé un grand intérêt, chez les 
+professionnels et dans le public, en définissant des critères spécifiques pour chaque trouble […]. 
+
+La quatrième édition du manuel, publiée en 1994, a essayé de contenir l’inflation diagnostique qui 
+avait suivi l’édition précédente. Elle a réussi du côté adulte, mais n’a pas réussi à anticiper ou à 
+
+contrôler les sur-diagnostics à la mode pour l’autisme, les troubles du déficit de l’attention et les 
+troubles bipolaires chez les enfants, qui se sont produits depuis. »5  
+
+Je soulignais à la fin de mon livre sur La Bataille de l’autisme6 que A. Frances refuse de 
+reconnaître que c’est le mécanisme même de démantèlement des grands cadres de la 
+
+psychopathologie et leur réduction à des items simples, empiriques, clairement observables et 
+sans équivoques, qui sont, en soi, inflationnistes. Le trouble, arborant son empirisme comme 
+
+insigne de son affranchissement de toute hypothèse théorique, hormis celle d’un fondement 
+biologique à découvrir un jour, est devenu la monnaie épidémiologique commune, sans gouvernance. Faute 
+
+
+
+de discussions – considérées comme théoriques par un manuel qui se veut a-théorique – sur ce qu’est 
+une maladie mentale et ce qu’elle n’est pas, les débats sont nécessairement cantonnés à la quantité 
+d’items à contrôler. La dérive actuelle des responsables, qui pensent avoir résorbé la psychiatrie 
+
+dans la neurologie et qui imaginent mesurer l’intensité du 
+trouble mental comme on mesure la pression artérielle et le cholestérol 7, 
+était en germe dans le projet initial. 
+
+A. Frances comptait simplement sur une bonne régulation 
+
+pour résoudre les problèmes de la zone DSM. Il considérait que 
+tant qu’il dirigeait lui-même le Comité DSM de l’American 
+
+Psychiatric Association (APA), il faisait le job, mais que 
+maintenant, ça ne marche plus. Il voulait, il y a encore un an, 
+
+retirer le DSM des mains de l’APA pour le confier à une Agence 
+indépendante reliée au ministère de la Santé ou à l’OMS. Le 
+
+NIMH l’a pris de vitesse, il reprend l’autorité scientifique et va 
+tenter de nouer de nouvelles alliances pour structurer le 
+
+champ. 
+Ce qui va venir sera en rupture avec toute clinique du sujet et toute clinique sociologique  ce 
+
+qu’était encore le DSM. Les contradictions vont être fortes entre l'ambition de "validité" d'un réel 
+que l'on vise et le peu d'effectivité (wirklichkeit) qui sera produite. Le champ des neurosciences et 
+de la Brain Initiative n’est pas unifié par un paradigme commun. Comme le dit un J. Horgan, il 
+ressemble au champ de la génétique avant la découverte de la double hélice. Les hypothèses de 
+
+détermination biologique stricte sont lourdes de potentielles stigmatisations sociales. Leur 
+maniement dans le champ clinique ne peut se faire sans une implication des populations 
+
+affectées. Associer des droits à une étiquette irréversible suite à un diagnostic suppose des 
+financements élevés et une refonte des pratiques du système de santé, comme on le voit pour 
+
+l’autisme. Les multiples autorités de tutelle qui distribuent les soins aux USA, les compagnies 
+d’assurance privées, le dispositif complexe de l’Obamacare vont y regarder à deux fois pour 
+apprécier les conséquences de ce moment d’entre deux. 
+
+Le reste du monde se prépare de façon diverse à la nouvelle époque. En Europe, la situation 
+
+est caractérisée par un certain silence du milieu universitaire, qui emboîte peu ou prou le pas au 
+DSM sans beaucoup se manifester. La diversité a beaucoup plus de mal à exister à ce niveau. Le 
+
+numéro double de Libération, en date des 8 et 9 mai en a très bien rendu compte. Bruno Falissard, 
+« épidémiologiste et psychiatre », n’est pas si mécontent du DSM. Il le laisse aux Américains et à 
+leur « différence sociétale ». Il souligne qu’heureusement la Clinique française est « plus 
+phénoménologique, plus proche du vécu subjectif des patients ». Dans sa position atypique, il 
+
+met en garde contre les grands projets classificatoires et la fascination par les grandes séries 
+statistiques. « Nous avons été trop loin dans la médecine fondée sur les preuves. Cette médecine 
+
+
+
+reposant sur des études statistiques 
+
+concerne un patient moyen ». Il 
+demande donc plus d’attention à la 
+
+singularité. En attendant le DSM 
+reste la seule classification qui fait 
+
+autorité à l’Université. 
+C’est du côté des cliniciens 
+
+qu’un mouvement de boycott du 
+DSM a pris forme. Eric Favereau 
+
+inteviewait Patrick Landman, 
+président du Collectif Stop DSM-
+
+5  qui regroupe largement des 
+praticiens dans tout le champ 
+
+clinique. François Leguil, qui y 
+participe, a rendu compte dans 
+
+Lacan Quotidien des succès de 
+mobilisation de la profession sur 
+
+cette opposition. L’objectif est de ne plus faire usage du DSM pour utiliser l’ICD reconnue par 
+l’OMS ou militer pour la classification française des troubles mentaux de l’enfant et de 
+
+l’adolescent (CFTMEA), que l’OMS considère comme trop subjective. En Angleterre, les milieux 
+universitaires ne sont pas muselés comme sur le continent et l’on connaît les voix dissidentes de 
+
+German Berrios de Cambridge ou de David Healy de l’université de Cardiff. Cela fait aussi 
+longtemps que la British Psychological Association a pris parti contre l’orientation biologique et 
+statistique du DSM. Elle a participé à la campagne de boycott du DSM par une lettre ouverte qui 
+a recueilli de nombreux soutiens. A la veille de la publication du DSM, le 13 mai, sa section de 
+
+psychologie clinique vient de déclarer qu’elle appelle à un changement de paradigme dans les 
+questions de la santé mentale. Elle rappelle que « le diagnostic psychiatrique est souvent présenté 
+
+comme un fait objectif alors qu’il est un jugement clinique basé sur l’observation et 
+l’interprétation de conduites et de déclarations subjectives et donc sujet à variations et à biais ». 
+
+C’est pourquoi elle maintient que les problèmes de santé mentale doivent être avant tout pensés 
+en termes psychologiques et sociaux. (On peut trouver sur son site tous les documents.) 
+
+En Asie, le prestige de la psychiatrie américaine structure le champ, mais la tradition 
+phénoménologique de la psychiatrie japonaise ainsi que la résistance de la langue à l’adoption des 
+
+métaphores comme « dépression » maintient dans les pratiques une distance avec la 
+standardisation internationale. En Chine, les séductions de l’approche cognitivo-
+
+comportementale  comprise comme une sorte de technique du corps supplémentaire  sont  
+compensées par l’étonnante capacité chinoise à maintenir une réinterprétation constante 
+
+
+
+d’approches séculaires du vide subjectif. Lacan Quotidien s’est fait l’écho des débats et enjeux lors 
+de rencontres avec nos collègues chinois.  
+
+La fin d’une époque comporte toujours des soubresauts étranges. Nous sortons d’un 
+
+moment où un paradigme dominant s’était installé, ne laissant d’opposition que dans les marges. 
+C’est maintenant tout le champ qui est traversé par de nouvelles contradictions entre scientifiques 
+
+fondamentalistes, bureaucraties sanitaires publiques et privées, tenants de traditions cliniques 
+diverses et appelants de la clinique du sujet. De nouvelles configurations verront le jour. 
+
+ 
+Notes 
+1 Insel Th., « Transforming diagnostics », The director’s blog, site de la NIMH, 29 avril 2013. 
+2 Je remercie François Ansermet, toujours bien informé, de m’avoir indiqué le site. 
+3 Cité par Grohol J. M., « Did the NIMH withdraw Support for the DSM-5? No », posté sur psychcentral.com 
+4 Frances A., « NIMH vs DSM-5: No one wins, patients lose », posté sur son blog le10 mai 2013 
+5 Frances A., « Diagnosing the D.S.M. », The New York Times, 11 mai 2012 (disponible sur internet). 
+6 Laurent É., La Bataille de l’autisme. De la clinique à la politique, Paris, Navarin & Le Champ freudien, 2012. 
+7 Cf. Lecrubier A., « Le Dr Maurice Corcos dénonce les dérives du DSM-V », Medscape France, 1er mars 2012 
+(disponible sur internet). M. Corcos, professeur de psychiatrie infanto-juvénile à l’université Paris V, est l’auteur de 
+L’homme selon le DSM. Le nouvel ordre psychiatrique, Paris, Albin Michel, 2011. 
+ 
+
+À PARAÎTRE 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Traduction d'Enric Berenguer 
+
+ 
+ 
+
+*** 
+
+http://psychcentral.com/blog/archives/2013/05/07/did-the-nimh-withdraw-support-for-the-dsm-5-no/
+
+
+Plus propre que propre n'est pas plus propre 
+ 
+
+LUC GARCIA 
+ 
+ 
+
+ 
+François Kersaudy est souvent apprécié de ceux qui apprécient Winston Churchill ; il est son plus 
+fameux biographe français, pour certains le meilleur, certainement et souvent le plus autorisé.  
+
+ 
+François Kersaudy est désormais aussi l'auteur d'un 
+
+récent Les secrets du IIIe Reich avec lequel il invite le lecteur 
+à un bougé qui n'est pas celui que l'on croirait si l'on en 
+
+restait à l'idée que de Churchill au IIIe Reich, existe une 
+unité de temps - argument pourtant évoqué par bien des 
+
+commentateurs pour annoncer le livre : vous aviez aimé 
+le Churchill de Kersaudy ou de Kersaudy le Churchill ? 
+
+Traversez la Manche, Kersaudy nous raconte la vie en 
+face. S'agirait-il ainsi d'un bougé timidement aérien, juste 
+
+géographique, de quelques heures pour un champ de 
+bataille en puzzle dont l'historien va chercher les 
+
+morceaux ? 
+En matière de morceaux, ce dernier livre de Kersaudy 
+
+est riche. On ne saurait dire, du reste, à partir de 
+combien peut-on dire beaucoup ou trop. C'est en 
+
+gourmet, posture que l'auteur qualifiera certainement d'être la marque d'une rigueur d'historien, 
+que Kersaudy détaille ces travers si incorrigiblement nazis. Ces travers si méconnus de ces 
+
+approximatifs lecteurs dont on est, qui confondent le Kehlsteinhaus avec la résidence du Berghof. 
+On ne parlait pas encore qu'on le savait déjà - déjà que les pans de l'Histoire concernent aussi les 
+
+apéritifs que prennent les diplomates sous des alcôves dorées entre gens distingués, lorsque les 
+peuples sont enivrés par des promesses à faire rêver ceux qui aiment ça et à faire aimer ceux qui 
+
+veulent faire rêver ; que l'on remarquait ensuite combien l'éternelle question du comment donc 
+une Allemagne si rigoureuse dans son prussien passé a pu loger autant d'approximations n'est 
+
+finalement qu'une tautologie d'observateurs fascinés. Croire souvent qu'une idéologie politique 
+tient du même fonctionnement bien huilé qu'un embrayage bavarois de la Bayerische Motoren Werke 
+AG (BMW), aveugle bien des débats et élude trop de questions. En cela, Les secrets du IIIe Reich 
+mettra certaines pendules à l'heure. 
+
+
+
+Cependant, était-il bien nécessaire de pousser l'esprit de ponctualité à préciser que le chien d'Eva 
+
+Braun ne pouvait supporter celui d'Hitler (p. 144), de même que cette acrobatique tentative 
+d'employer le terme révisionnisme au sens américain du terme (p. 152) pour fustiger qu'il ne s'agit 
+
+que de faire vendre du papier puisque ledit révisionnisme US « signifie faire table rase de toutes 
+les connaissances acquises sur la question, pour introduire une théorie entièrement nouvelle » ? 
+
+Revenons-en à cette question des anecdotes. Est-ce le bon 
+terme ? Rien n'est moins sûr. Le livre ne se prononce pas, 
+
+du début à la fin, sur la cause qui le crée. S'agissait-il de 
+rétablir d'équerre certains dossiers qui penchent, comme la 
+
+question de l'atterrissage de Rudolph Hess au Royaume-
+Uni ? Ou l'épineuse question du régime médicamenteux 
+
+d'Hitler ? Et du même pas, de voir le nom de l'auteur inscrit 
+dans la suite de ceux qui se sont prononcés sur tout cela et 
+
+qui sont effectivement essentiellement originaires d'outre 
+atlantique - que Kersaudy à plusieurs reprises n'apprécie pas 
+
+beaucoup ; et ainsi de placer une pierre dans cette mare des 
+publications qui chaque année, pour ne pas dire chaque 
+
+mois, invitent des lecteurs tatillons à révisionner l'origine de 
+faits dont ils voudraient dégager une loi lorsque pour 
+
+d'autres il s'agit d'un réel ? Pourtant, entre ces deux options-là, il ne s'agit pas seulement d'une 
+question esthétique, mais singulièrement de choix. 
+
+ 
+On me dira que le projet de Kersaudy ne se fonde pas d'être orienté d'un réel mais d'un discours, 
+
+spécialement celui de l'universitaire. Soit. Ce livre, pourtant, marque une tendance, que l'on 
+perçoit également chez son voisin de gondole, Ian 
+
+Kershaw et son La Fin, nouvellement traduit en français : 
+il s'agit de cataloguer dans le marbre la série des travers 
+
+pathologiques d'un régime, et plus spécialement de ses 
+travers psychopathologiques. On ne compte plus les pages 
+
+où l'on apprend les vomissements des uns, les 
+décompositions physico-psychiques des autres, les colères 
+
+de celui-ci ou les déprimes de tel autre. Une tendance qui 
+était déjà lisible dans la fameuse biographie de Churchill de 
+
+Kersaudy, mais qui restait timide. Et puis, à bien regarder, 
+il est difficile de faire équivaloir Les secrets du IIIe Reich avec 
+les secrets de la consommation de whisky de Churchill.  
+ 
+
+
+
+Le silence des auteurs sur la signification de ce à quoi ils adossent ce catalogue d'outre-rhin 
+
+conduit le lecteur à faire son choix. Très aimable. Mais tout aussi bien suspect. La lecture du 
+politique s'efface au profit de fleuves qui tour à tour vont chercher dans la médecine ou la 
+
+psychiatrie de quoi fonder le socle angélique de l'historien. Soyons clairs : des colères, des 
+déprimes, des spasmes vomitifs sont-ils la marque d'un régime de l'horreur ? Auquel cas, le projet 
+
+politique insu mais bien réel de ces auteurs est-il d'installer le socle futur d'une asepsie des 
+dirigeants, selon l'adage rebattu que l'histoire saurait nous enseigner ? Comment leur dire qu'il 
+
+s'agit de rien de moins, à cette occasion, que le retour à la case départ de ce qu'ils étudient mais 
+éludent de la sorte patiemment : plus propre que propre et ce sont les souches du pire qui font 
+
+leur beurre, ces souches qui en appellent à une France à l'occasion plus vraie que vraie, si l'on 
+devait en rester à l'hexagone. 
+
+ 
+Toutes choses inégales par ailleurs, nous voilà plongés dans cette autre tendance que l'on vit il y a 
+
+un an et dont on voit sur quoi elle débouche, comme une chasse d'eau qui reflue : à faire une 
+campagne présidentielle sur le caractère de son opposant, certains se tournent sur un plus de 
+
+crasse, qui fait le lit d'habiles coucheurs. Il s'agit là d'une mauvaise option qui se paie toujours au 
+prix fort. De quelque bouche que ce soit, le nettoyage a posteriori ou a priori ne porte rien qui vaille 
+pour la suite, même si, un peu candidement vôtre, il fut de bon ton par exemple de parler de 
+présidence normale. 
+
+ 
+ 
+Références 
+Kersaudy François, Winston Churchill, Tallandier, Paris, avril 2009 
+Kersaudy François, Les secrets du IIIe Reich, Perrin, Paris, mars 2013 
+Kershaw Ian, La fin : Allemagne 1944-1945, traduction Pierre-Emmanuel Dauzat, Seuil, Paris, août 2012 
+ 
+
+ 
+
+ 
+
+Lacan Quotidien 
+
+publié par navarin éditeur 
+INFORME ET REFLÈTE 7 JOURS SUR 7 L’OPINION ÉCLAIRÉE 
+
+▪ comité de direction 
+
+présidente eve miller-rose eve.navarin@gmail.com 
+rédaction et diffusion anne poumellec annedg@wanadoo.fr 
+conseiller jacques-alain miller 
+
+mailto:eve.navarin@gmail.com
+mailto:annedg@wanadoo.fr
+
+
+▪rédaction 
+
+coordination anne poumellec annedg@wanadoo.fr 
+comité de lecture pierre-gilles gueguen, jacques-alain miller, eve miller-rose, anne 
+poumellec, eric zuliani 
+édition luc garcia, cecile favreau, bertrand lahutte 
+▪équipe 
+
+▪pour l’institut psychanalytique de l’enfant daniel roy, judith miller 
+▪pour babel 
+-Lacan Quotidien en argentine et sudamérique de langue espagnole graciela brodsky 
+-Lacan Quotidien au brésil angelina harari 
+-Lacan Quotidien en Espagne miquel bassols 
+▪traductions chantal bonneau (espagnol) maria do carmodias batista (lacan quotidien 
+au brésil) 
+▪designers viktor & william francboizel vwfcbzl@gmail.com 
+▪technique mark francboizel & olivier ripoll 
+▪médiateur patachón valdès patachon.valdes@gmail.com 
+ 
+▪suivre Lacan Quotidien : 
+
+▪ecf-messager@yahoogroupes.fr▫liste d’information des actualités de l’école de la 
+cause freudienne et des acf▫ responsable : philippe benichou 
+▪pipolnews@europsychoanalysis.eu ▫ liste de diffusion de l’eurofédération de 
+psychanalyse  
+▫ responsable : gil caroz 
+▪amp-uqbar@elistas.net▫ liste de diffusion de l’association mondiale de psychanalyse 
+▫ responsable : oscar ventura 
+▪secretary@amp-nls.org▫ liste de diffusion de la new lacanian school of 
+psychanalysis▫ responsables : dominique holvoet et florencia shanahan 
+▪EBP-Veredas@yahoogrupos.com.br▫uma lista sobre a psicanálise de difusão privada 
+e promovida pela associação mundial de psicanálise (amp) emsintoniacom a escola 
+brasileira de psicanálise▫moderator : maria cristina maia de oliveira fernandes 
+ 
+POUR ACCEDER AU SITE LACANQUOTIDIEN.FRCLIQUEZ ICI. 
+
+•À l’attention des auteurs  
+Les propositions de textes pour une publication dans Lacan Quotidien sont à 
+adresser par mail (anne poumellec annedg@wanadoo.fr)ou directement sur le site 
+lacanquotidien.fr en cliquant sur "proposez un article", 
+
+mailto:annedg@wanadoo.fr
+mailto:patachon.valdes@gmail.com
+mailto:pipolnews@europsychoanalysis.eu
+mailto:secretary@amp-nls.org
+mailto:EBP-Veredas@yahoogrupos.com.br
+http://www.lacanquotidien.fr/blog/
+mailto:annedg@wanadoo.fr
+http://lacanquotidien.fr/
+
+
+Sous fichier Word ▫ Police : Calibri ▫ Taille des caractères : 12 ▫ Interligne : 1,15 ▫ 
+Paragraphe : Justifié ▫ Notes : manuelles dans le corps du texte, à la fin de celui-ci, 
+police 10• 
+•À l’attention des auteurs & éditeurs  
+Pour la rubrique Critique de Livres, veuillez adresser vos ouvrages, à NAVARIN 
+ÉDITEUR, la Rédaction de Lacan Quotidien – 1 rue Huysmans 75006 Paris. • 
+
+
+	NUMERO 319
+	LE SAC DE NŒUDS
+

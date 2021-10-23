@@ -13,16 +13,7 @@ Then call the script in command line :
 python talat.py "/corpus"
 ```
 
-
-
-
-## Terminologie et stylométrie,
-
-## Extracteur d’unité terminologique polylexicale
-
-## Virgile CARTIER et Martial PASTOR
-
-
+## TALAT: Extracteur d’unité terminologique polylexicale
 
 ## Table des matières
 
